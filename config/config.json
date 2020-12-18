@@ -141,7 +141,7 @@
 		},
 		{ 
 			"channel": "olivia_deviline",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -171,7 +171,7 @@
 		},
 		{ 
 			"channel": "didiactive",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
@@ -237,6 +237,11 @@
 		{ 
 			"channel": "marti_lovely",
 			"enabled": "false",
+			"quality" : "720p"
+		},
+		{ 
+			"channel": "anna_sabotage",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
