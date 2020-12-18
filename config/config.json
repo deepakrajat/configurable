@@ -4,7 +4,7 @@
 	"rate_limit_time": 5,
 	"default_export_location": "./list.txt",
 	"streamers": [
-	    {
+	    	{
 			"channel": "coverm",
 			"enabled": "true",
 			"quality" : "best"
@@ -26,7 +26,7 @@
 		},
 		{ 
 			"channel": "angela_ride",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
@@ -36,7 +36,7 @@
 		},
 		{ 
 			"channel": "haileygrx",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
@@ -146,7 +146,7 @@
 		},
 		{ 
 			"channel": "carolinaherera",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -171,12 +171,12 @@
 		},
 		{ 
 			"channel": "didiactive",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
 			"channel": "jaylynxxxx74",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -281,7 +281,7 @@
 		},
 		{ 
 			"channel": "miss_juliaa",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
@@ -291,12 +291,12 @@
 		},
 		{ 
 			"channel": "kristii21",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
 			"channel": "evelina_fox",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
@@ -308,6 +308,26 @@
 			"channel": "faiir07",
 			"enabled": "false",
 			"quality" : "720p"
-		}
+		},
+		{ 
+			"channel": "yum_yum_",
+			"enabled": "false",
+			"quality" : "720p"
+		},
+		{ 
+			"channel": "sweetboobss1",
+			"enabled": "false",
+			"quality" : "720p"
+		},
+		{ 
+			"channel": "k_kimikoo",
+			"enabled": "false",
+			"quality" : "720p"
+		},
+		{ 
+			"channel": "vanessa__queen",
+			"enabled": "true",
+			"quality" : "720p"
+		} 
 	]
 }
