@@ -46,7 +46,7 @@
 		},
 		{ 
 			"channel": "sexyru_couple",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -171,7 +171,7 @@
 		},
 		{ 
 			"channel": "didiactive",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -296,7 +296,7 @@
 		},
 		{ 
 			"channel": "kristii21",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
