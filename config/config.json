@@ -46,7 +46,7 @@
 		},
 		{ 
 			"channel": "sexyru_couple",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
@@ -336,8 +336,13 @@
 		},
 		{ 
 			"channel": "aileen_williams",
+			"enabled": "false",
+			"quality" : "720p"
+		},
+		{ 
+			"channel": "andrea_duque97",
 			"enabled": "true",
 			"quality" : "720p"
-		} 
+		}
 	]
 }
