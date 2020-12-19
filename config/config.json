@@ -281,7 +281,7 @@
 		},
 		{ 
 			"channel": "emilia98xxx",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
@@ -331,6 +331,11 @@
 		},
 		{ 
 			"channel": "vanessa__queen",
+			"enabled": "false",
+			"quality" : "720p"
+		},
+		{ 
+			"channel": "aileen_williams",
 			"enabled": "true",
 			"quality" : "720p"
 		} 
