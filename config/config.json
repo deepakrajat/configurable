@@ -301,7 +301,7 @@
 		},
 		{ 
 			"channel": "evelina_fox",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
