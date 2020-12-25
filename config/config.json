@@ -22,7 +22,7 @@
 		{ 
 			"channel": "ellilovesu",
 			"enabled": "true",
-			"quality" : "best"
+			"quality" : "720p"
 		},
 		{ 
 			"channel": "angela_ride",
@@ -37,7 +37,7 @@
 		{ 
 			"channel": "haileygrx",
 			"enabled": "false",
-			"quality" : "best"
+			"quality" : "720p"
 		},
 		{ 
 			"channel": "bunny_room",
@@ -121,7 +121,7 @@
 		},
 		{ 
 			"channel": "kathy_baby",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -367,6 +367,11 @@
 		{ 
 			"channel": "miss_ak",
 			"enabled": "false",
+			"quality" : "720p"
+		},
+		{ 
+			"channel": "ariel_next_door",
+			"enabled": "true",
 			"quality" : "720p"
 		}
 	]
