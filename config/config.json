@@ -101,7 +101,7 @@
 		},
 		{ 
 			"channel": "abigail_w",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
