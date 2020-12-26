@@ -336,7 +336,7 @@
 		},
 		{ 
 			"channel": "andrea_duque97",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
@@ -371,6 +371,11 @@
 		},
 		{ 
 			"channel": "ariel_next_door",
+			"enabled": "true",
+			"quality" : "720p"
+		},
+		{ 
+			"channel": "kittycaitlin",
 			"enabled": "true",
 			"quality" : "720p"
 		}
