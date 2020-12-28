@@ -141,7 +141,7 @@
 		},
 		{ 
 			"channel": "yourlovelyfelicia",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
@@ -376,6 +376,11 @@
 		},
 		{ 
 			"channel": "kittycaitlin",
+			"enabled": "false",
+			"quality" : "720p"
+		},
+		{ 
+			"channel": "xxxhoneyxx",
 			"enabled": "false",
 			"quality" : "720p"
 		}
