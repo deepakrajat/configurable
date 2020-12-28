@@ -181,7 +181,7 @@
 		},
 		{ 
 			"channel": "jaylynxxxx74",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -376,7 +376,7 @@
 		},
 		{ 
 			"channel": "kittycaitlin",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		}
 	]
