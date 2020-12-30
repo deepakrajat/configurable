@@ -86,7 +86,7 @@
 		},
 		{ 
 			"channel": "fit___girl",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
@@ -281,7 +281,7 @@
 		},
 		{ 
 			"channel": "roxanjunk",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
