@@ -101,7 +101,7 @@
 		},
 		{ 
 			"channel": "abigail_w",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -176,7 +176,7 @@
 		},
 		{ 
 			"channel": "didiactive",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
