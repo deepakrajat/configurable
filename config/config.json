@@ -381,6 +381,11 @@
 		},
 		{ 
 			"channel": "xxxhoneyxx",
+			"enabled": "false",
+			"quality" : "720p"
+		},
+		{ 
+			"channel": "alien_woo",
 			"enabled": "true",
 			"quality" : "720p"
 		}
