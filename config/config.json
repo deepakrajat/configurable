@@ -176,7 +176,7 @@
 		},
 		{ 
 			"channel": "didiactive",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -241,7 +241,7 @@
 		},
 		{ 
 			"channel": "marti_lovely",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
@@ -336,7 +336,7 @@
 		},
 		{ 
 			"channel": "andrea_duque97",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
