@@ -241,7 +241,7 @@
 		},
 		{ 
 			"channel": "marti_lovely",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
