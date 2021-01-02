@@ -388,6 +388,36 @@
 			"channel": "alien_woo",
 			"enabled": "true",
 			"quality" : "720p"
+		},
+		{ 
+			"channel": "nikkisweetie",
+			"enabled": "true",
+			"quality" : "720p"
+		},
+		{ 
+			"channel": "viciousqueen",
+			"enabled": "true",
+			"quality" : "720p"
+		},
+		{ 
+			"channel": "notfallenangel",
+			"enabled": "false",
+			"quality" : "720p"
+		},
+		{ 
+			"channel": "elaanna",
+			"enabled": "true",
+			"quality" : "720p"
+		},
+		{ 
+			"channel": "aidiyana",
+			"enabled": "false",
+			"quality" : "720p"
+		},
+		{ 
+			"channel": "lena_houston",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
