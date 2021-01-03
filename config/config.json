@@ -406,12 +406,12 @@
 		},
 		{ 
 			"channel": "elaanna",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
 			"channel": "aidiyana",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
