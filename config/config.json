@@ -46,7 +46,7 @@
 		},
 		{ 
 			"channel": "sexyru_couple",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
@@ -256,7 +256,7 @@
 		},
 		{ 
 			"channel": "aalliss",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
@@ -416,6 +416,11 @@
 		},
 		{ 
 			"channel": "lena_houston",
+			"enabled": "true",
+			"quality" : "720p"
+		},
+		{ 
+			"channel": "vany_love",
 			"enabled": "true",
 			"quality" : "720p"
 		}
