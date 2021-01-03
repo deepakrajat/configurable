@@ -51,7 +51,7 @@
 		},
 		{ 
 			"channel": "little_dutch",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -191,7 +191,7 @@
 		},
 		{ 
 			"channel": "sweet_ary",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
@@ -421,6 +421,16 @@
 		},
 		{ 
 			"channel": "vany_love",
+			"enabled": "true",
+			"quality" : "720p"
+		},
+		{ 
+			"channel": "kimmie_",
+			"enabled": "true",
+			"quality" : "720p"
+		},
+		{ 
+			"channel": "ms_tanya",
 			"enabled": "true",
 			"quality" : "720p"
 		}
