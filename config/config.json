@@ -27,7 +27,7 @@
 		{ 
 			"channel": "angela_ride",
 			"enabled": "true",
-			"quality" : "720p"
+			"quality" : "best"
 		},
 		{ 
 			"channel": "anyeess",
