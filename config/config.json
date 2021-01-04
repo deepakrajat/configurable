@@ -386,12 +386,12 @@
 		},
 		{ 
 			"channel": "alien_woo",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
 			"channel": "nikkisweetie",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -416,22 +416,22 @@
 		},
 		{ 
 			"channel": "lena_houston",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
 			"channel": "vany_love",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
 			"channel": "kimmie_",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
 			"channel": "ms_tanya",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		}
 	]
