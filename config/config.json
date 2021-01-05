@@ -433,6 +433,11 @@
 			"channel": "ms_tanya",
 			"enabled": "false",
 			"quality" : "720p"
+		},
+		{ 
+			"channel": "mabel_n_mike",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
