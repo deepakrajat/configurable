@@ -438,6 +438,11 @@
 			"channel": "mabel_n_mike",
 			"enabled": "true",
 			"quality" : "720p"
+		},
+		{ 
+			"channel": "natalie_x",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
