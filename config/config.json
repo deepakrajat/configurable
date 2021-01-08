@@ -316,7 +316,7 @@
 		},
 		{ 
 			"channel": "faiir07",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
