@@ -441,7 +441,7 @@
 		},
 		{ 
 			"channel": "natalie_x",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		}
 	]
