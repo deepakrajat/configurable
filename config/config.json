@@ -141,7 +141,7 @@
 		},
 		{ 
 			"channel": "yourlovelyfelicia",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
@@ -446,6 +446,11 @@
 		},
 		{ 
 			"channel": "adriana_ferrari",
+			"enabled": "true",
+			"quality" : "720p"
+		},
+		{ 
+			"channel": "joconda",
 			"enabled": "true",
 			"quality" : "720p"
 		}
