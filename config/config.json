@@ -81,7 +81,7 @@
 		},
 		{ 
 			"channel": "via0300",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
@@ -201,7 +201,7 @@
 		},
 		{ 
 			"channel": "sweetboobss1",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
@@ -211,7 +211,7 @@
 		},
 		{ 
 			"channel": "veola_new",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -451,6 +451,11 @@
 		},
 		{ 
 			"channel": "joconda",
+			"enabled": "true",
+			"quality" : "720p"
+		},
+		{ 
+			"channel": "lexipoy",
 			"enabled": "true",
 			"quality" : "720p"
 		}
