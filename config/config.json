@@ -473,6 +473,11 @@
 			"channel": "sex_twoo",
 			"enabled": "true",
 			"quality" : "720p"
+		},
+		{ 
+			"channel": "affroditta",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
