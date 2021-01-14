@@ -458,6 +458,11 @@
 			"channel": "lexipoy",
 			"enabled": "true",
 			"quality" : "720p"
+		},
+		{ 
+			"channel": "lovelyllloly",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
