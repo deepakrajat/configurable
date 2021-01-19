@@ -271,7 +271,7 @@
 		},
 		{ 
 			"channel": "sonjashy",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
@@ -481,6 +481,11 @@
 		},
 		{ 
 			"channel": "goldteachers",
+			"enabled": "true",
+			"quality" : "720p"
+		},
+		{ 
+			"channel": "xxxnicaparaxxx",
 			"enabled": "true",
 			"quality" : "720p"
 		}
