@@ -496,12 +496,12 @@
 		},
 		{ 
 			"channel": "so_sweet_poppy",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
 			"channel": "debralee",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		}
 	]
