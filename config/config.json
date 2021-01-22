@@ -503,6 +503,11 @@
 			"channel": "debralee",
 			"enabled": "false",
 			"quality" : "720p"
+		},
+		{ 
+			"channel": "dariaa_doll",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
