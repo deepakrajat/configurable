@@ -461,7 +461,7 @@
 		},
 		{ 
 			"channel": "college_girl_",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -511,7 +511,32 @@
 		},
 		{ 
 			"channel": "ailin_boobs",
+			"enabled": "false",
+			"quality" : "720p"
+		},
+		{ 
+			"channel": "barely_legal_cory",
+			"enabled": "false",
+			"quality" : "720p"
+		},
+		{ 
+			"channel": "me_emily",
 			"enabled": "true",
+			"quality" : "720p"
+		},
+		{ 
+			"channel": "casey_ann",
+			"enabled": "true",
+			"quality" : "720p"
+		},
+		{ 
+			"channel": "alliana_joy",
+			"enabled": "false",
+			"quality" : "720p"
+		},
+		{ 
+			"channel": "roxxana227",
+			"enabled": "false",
 			"quality" : "720p"
 		}
 	]
