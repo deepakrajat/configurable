@@ -531,7 +531,7 @@
 		},
 		{ 
 			"channel": "alliana_joy",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
