@@ -521,12 +521,12 @@
 		},
 		{ 
 			"channel": "me_emily",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
 			"channel": "casey_ann",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
