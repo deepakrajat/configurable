@@ -543,6 +543,11 @@
 			"channel": "bunnyblondy",
 			"enabled": "true",
 			"quality" : "720p"
+		},
+		{ 
+			"channel": "russianroulette_",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
