@@ -186,7 +186,7 @@
 		},
 		{ 
 			"channel": "office_online",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
