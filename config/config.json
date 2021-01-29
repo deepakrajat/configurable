@@ -521,12 +521,12 @@
 		},
 		{ 
 			"channel": "me_emily",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
 			"channel": "casey_ann",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
@@ -541,12 +541,12 @@
 		},
 		{ 
 			"channel": "bunnyblondy",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
 			"channel": "russianroulette_",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		}
 	]
