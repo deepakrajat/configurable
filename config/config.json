@@ -111,7 +111,7 @@
 		},
 		{ 
 			"channel": "oh_julie",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
@@ -121,7 +121,7 @@
 		},
 		{ 
 			"channel": "kathy_baby",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
@@ -421,7 +421,7 @@
 		},
 		{ 
 			"channel": "vany_love",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
