@@ -548,6 +548,11 @@
 			"channel": "russianroulette_",
 			"enabled": "false",
 			"quality" : "720p"
+		},
+		{ 
+			"channel": "missflowersbloom",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
