@@ -558,6 +558,11 @@
 			"channel": "asiann_princess",
 			"enabled": "true",
 			"quality" : "720p"
+		},
+		{ 
+			"channel": "anabel054",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
