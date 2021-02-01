@@ -563,6 +563,11 @@
 			"channel": "anabel054",
 			"enabled": "true",
 			"quality" : "720p"
+		},
+		{ 
+			"channel": "kittyrave",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
