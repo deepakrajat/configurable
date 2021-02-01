@@ -553,6 +553,11 @@
 			"channel": "missflowersbloom",
 			"enabled": "true",
 			"quality" : "720p"
+		},
+		{ 
+			"channel": "asiann_princess",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
