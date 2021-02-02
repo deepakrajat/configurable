@@ -111,7 +111,7 @@
 		},
 		{ 
 			"channel": "oh_julie",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
@@ -521,7 +521,7 @@
 		},
 		{ 
 			"channel": "me_emily",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
