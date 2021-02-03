@@ -61,7 +61,7 @@
 		},
 		{ 
 			"channel": "stacy_magic",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
@@ -561,7 +561,7 @@
 		},
 		{ 
 			"channel": "anabel054",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -571,7 +571,17 @@
 		},
 		{
 			"channel": "sandralopezxxx",
-			"enabled": "false",
+			"enabled": "true",
+			"quality" : "720p"
+		},
+		{
+			"channel": "emerald_breeze",
+			"enabled": "true",
+			"quality" : "720p"
+		},
+		{
+			"channel": "doll_lexi",
+			"enabled": "true",
 			"quality" : "720p"
 		}
 	]
