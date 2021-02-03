@@ -26,12 +26,12 @@
 		},
 		{ 
 			"channel": "angela_ride",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
 			"channel": "anyeess",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
@@ -56,12 +56,12 @@
 		},
 		{ 
 			"channel": "girl_of_yourdreams",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
 			"channel": "stacy_magic",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{
@@ -561,7 +561,7 @@
 		},
 		{ 
 			"channel": "anabel054",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
