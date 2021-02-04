@@ -588,6 +588,11 @@
 			"channel": "skarlet_and_johnny",
 			"enabled": "false",
 			"quality" : "720p"
+		},
+		{
+			"channel": "superstarxx",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
