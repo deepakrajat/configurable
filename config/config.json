@@ -36,7 +36,7 @@
 		},
 		{ 
 			"channel": "haileygrx",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
@@ -596,7 +596,7 @@
 		},
 		{
 			"channel": "delsee",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		}
 	]
