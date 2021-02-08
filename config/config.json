@@ -371,7 +371,7 @@
 		},
 		{ 
 			"channel": "ariel_next_door",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
