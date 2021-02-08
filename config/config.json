@@ -598,6 +598,11 @@
 			"channel": "delsee",
 			"enabled": "false",
 			"quality" : "720p"
+		},
+		{
+			"channel": "layanaqueen",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
