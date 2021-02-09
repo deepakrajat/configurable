@@ -506,7 +506,7 @@
 		},
 		{ 
 			"channel": "dariaa_doll",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -551,12 +551,12 @@
 		},
 		{ 
 			"channel": "missflowersbloom",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
 			"channel": "asiann_princess",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -601,6 +601,11 @@
 		},
 		{
 			"channel": "layanaqueen",
+			"enabled": "false",
+			"quality" : "720p"
+		},
+		{
+			"channel": "princess_sweety",
 			"enabled": "true",
 			"quality" : "720p"
 		}
