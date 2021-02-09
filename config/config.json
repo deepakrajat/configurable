@@ -271,7 +271,7 @@
 		},
 		{ 
 			"channel": "sonjashy",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
@@ -506,7 +506,7 @@
 		},
 		{ 
 			"channel": "dariaa_doll",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
@@ -521,7 +521,7 @@
 		},
 		{ 
 			"channel": "me_emily",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
