@@ -608,6 +608,11 @@
 			"channel": "princess_sweety",
 			"enabled": "true",
 			"quality" : "720p"
+		},
+		{
+			"channel": "drug_girl",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
