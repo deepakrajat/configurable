@@ -618,6 +618,11 @@
 			"channel": "_milkyway",
 			"enabled": "true",
 			"quality" : "720p"
+		},
+		{
+			"channel": "amazing_roxana",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
