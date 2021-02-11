@@ -131,7 +131,7 @@
 		},
 		{ 
 			"channel": "roxy_blue_eyed_",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -316,7 +316,7 @@
 		},
 		{ 
 			"channel": "faiir07",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
