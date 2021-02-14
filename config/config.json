@@ -159,6 +159,11 @@
 			"enabled": "false",
 			"quality" : "720p"
 		},
+		{
+			"channel": "santamoans",
+			"enabled": "true",
+			"quality" : "720p"
+		},
 		{ 
 			"channel": "helena_play",
 			"enabled": "true",
