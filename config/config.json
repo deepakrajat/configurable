@@ -111,7 +111,7 @@
 		},
 		{ 
 			"channel": "oh_julie",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
@@ -606,7 +606,7 @@
 		},
 		{
 			"channel": "layanaqueen",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
