@@ -638,6 +638,11 @@
 			"channel": "melissa_sucre",
 			"enabled": "true",
 			"quality" : "720p"
+		},
+		{
+			"channel": "sun_shine_baby",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
