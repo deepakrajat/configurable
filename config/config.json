@@ -633,6 +633,11 @@
 			"channel": "cute_siberian_girl",
 			"enabled": "true",
 			"quality" : "720p"
+		},
+		{
+			"channel": "melissa_sucre",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
