@@ -663,6 +663,11 @@
 			"channel": "porn60fps",
 			"enabled": "true",
 			"quality" : "720p"
+		},
+		{
+			"channel": "diffgirls",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
