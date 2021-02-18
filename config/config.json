@@ -643,6 +643,16 @@
 			"channel": "sun_shine_baby",
 			"enabled": "true",
 			"quality" : "720p"
+		},
+		{
+			"channel": "effyloweell",
+			"enabled": "true",
+			"quality" : "720p"
+		},
+		{
+			"channel": "yourlittlepervert",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
