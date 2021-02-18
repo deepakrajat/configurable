@@ -653,6 +653,11 @@
 			"channel": "yourlittlepervert",
 			"enabled": "true",
 			"quality" : "720p"
+		},
+		{
+			"channel": "anyarayne",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
