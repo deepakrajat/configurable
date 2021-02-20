@@ -21,7 +21,7 @@
 		},
 		{ 
 			"channel": "ellilovesu",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
@@ -246,7 +246,7 @@
 		},
 		{ 
 			"channel": "marti_lovely",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
