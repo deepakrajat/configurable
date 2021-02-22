@@ -56,12 +56,12 @@
 		},
 		{ 
 			"channel": "girl_of_yourdreams",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
 			"channel": "stacy_magic",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
@@ -121,7 +121,7 @@
 		},
 		{ 
 			"channel": "kathy_baby",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -141,7 +141,7 @@
 		},
 		{ 
 			"channel": "yourlovelyfelicia",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
