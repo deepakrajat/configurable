@@ -556,7 +556,7 @@
 		},
 		{ 
 			"channel": "missflowersbloom",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
