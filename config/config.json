@@ -586,7 +586,7 @@
 		},
 		{
 			"channel": "doll_lexi",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
@@ -671,11 +671,6 @@
 		},
 		{
 			"channel": "ms_ass",
-			"enabled": "false",
-			"quality" : "720p"
-		},
-		{
-			"channel": "doll_lexi",
 			"enabled": "false",
 			"quality" : "720p"
 		}
