@@ -111,7 +111,7 @@
 		},
 		{ 
 			"channel": "oh_julie",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -672,6 +672,11 @@
 		{
 			"channel": "ms_ass",
 			"enabled": "false",
+			"quality" : "720p"
+		},
+		{
+			"channel": "_avrora_",
+			"enabled": "true",
 			"quality" : "720p"
 		}
 	]
