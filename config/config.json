@@ -678,6 +678,11 @@
 			"channel": "_avrora_",
 			"enabled": "true",
 			"quality" : "720p"
+		},
+		{
+			"channel": "miss__tanya",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
