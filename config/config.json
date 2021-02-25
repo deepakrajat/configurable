@@ -688,6 +688,11 @@
 			"channel": "cute18cute",
 			"enabled": "true",
 			"quality" : "720p"
+		},
+		{
+			"channel": "lettali",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
