@@ -683,6 +683,11 @@
 			"channel": "miss__tanya",
 			"enabled": "true",
 			"quality" : "720p"
+		},
+		{
+			"channel": "cute18cute",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
