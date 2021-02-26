@@ -26,7 +26,7 @@
 		},
 		{ 
 			"channel": "angela_ride",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
