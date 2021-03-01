@@ -693,6 +693,11 @@
 			"channel": "lettali",
 			"enabled": "false",
 			"quality" : "720p"
+		},
+		{
+			"channel": "missvalentine18",
+			"enabled": "false",
+			"quality" : "720p"
 		}
 	]
 }
