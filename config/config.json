@@ -221,7 +221,7 @@
 		},
 		{ 
 			"channel": "iren_wagner",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
