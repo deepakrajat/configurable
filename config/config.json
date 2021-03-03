@@ -126,7 +126,7 @@
 		},
 		{ 
 			"channel": "_timeless_paradox",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
@@ -241,7 +241,7 @@
 		},
 		{ 
 			"channel": "valeria_green99",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
@@ -461,7 +461,7 @@
 		},
 		{ 
 			"channel": "lexipoy",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
