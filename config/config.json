@@ -561,7 +561,7 @@
 		},
 		{ 
 			"channel": "asiann_princess",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
