@@ -241,7 +241,7 @@
 		},
 		{ 
 			"channel": "valeria_green99",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -606,7 +606,7 @@
 		},
 		{
 			"channel": "layanaqueen",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
