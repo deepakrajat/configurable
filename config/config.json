@@ -698,6 +698,26 @@
 			"channel": "missvalentine18",
 			"enabled": "false",
 			"quality" : "720p"
+		},
+		{
+			"channel": "succuba_",
+			"enabled": "true",
+			"quality" : "720p"
+		},
+		{
+			"channel": "siamodo",
+			"enabled": "true",
+			"quality" : "720p"
+		},
+		{
+			"channel": "aimeekelly_",
+			"enabled": "false",
+			"quality" : "720p"
+		},
+		{
+			"channel": "bad__babe",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
