@@ -701,12 +701,12 @@
 		},
 		{
 			"channel": "succuba_",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
 			"channel": "siamodo",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
@@ -716,7 +716,7 @@
 		},
 		{
 			"channel": "bad__babe",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		}
 	]
