@@ -16,7 +16,7 @@
 		},
 		{ 
 			"channel": "slemgem",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -586,7 +586,7 @@
 		},
 		{
 			"channel": "doll_lexi",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{
@@ -666,7 +666,7 @@
 		},
 		{
 			"channel": "diffgirls",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
