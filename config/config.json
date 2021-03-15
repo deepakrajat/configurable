@@ -36,7 +36,7 @@
 		},
 		{ 
 			"channel": "haileygrx",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
@@ -46,7 +46,7 @@
 		},
 		{ 
 			"channel": "sexyru_couple",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
