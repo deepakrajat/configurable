@@ -126,7 +126,7 @@
 		},
 		{ 
 			"channel": "_timeless_paradox",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
@@ -621,7 +621,7 @@
 		},
 		{
 			"channel": "_milkyway",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{
