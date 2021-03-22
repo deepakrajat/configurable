@@ -31,7 +31,7 @@
 		},
 		{ 
 			"channel": "anyeess",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -46,7 +46,7 @@
 		},
 		{ 
 			"channel": "sexyru_couple",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
@@ -276,7 +276,7 @@
 		},
 		{ 
 			"channel": "sonjashy",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
@@ -686,7 +686,7 @@
 		},
 		{
 			"channel": "cute18cute",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{
