@@ -7,7 +7,7 @@
 	    	{
 			"channel": "coverm",
 			"enabled": "true",
-			"quality" : "best"
+			"quality" : "720p"
 		},
 		{ 
 			"channel": "stripmango",
