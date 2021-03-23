@@ -718,6 +718,11 @@
 			"channel": "bad__babe",
 			"enabled": "false",
 			"quality" : "720p"
+		},
+		{
+			"channel": "krissone",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
