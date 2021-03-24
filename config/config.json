@@ -176,7 +176,7 @@
 		},
 		{ 
 			"channel": "cyber_baby",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
@@ -231,7 +231,7 @@
 		},
 		{ 
 			"channel": "heyhorny_cb",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
