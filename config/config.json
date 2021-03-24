@@ -723,6 +723,11 @@
 			"channel": "krissone",
 			"enabled": "true",
 			"quality" : "720p"
+		},
+		{
+			"channel": "pavlovacolucci",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
