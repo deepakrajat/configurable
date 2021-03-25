@@ -726,7 +726,7 @@
 		},
 		{
 			"channel": "pavlovacolucci",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		}
 	]
