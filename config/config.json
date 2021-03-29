@@ -46,7 +46,7 @@
 		},
 		{ 
 			"channel": "sexyru_couple",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -111,7 +111,7 @@
 		},
 		{ 
 			"channel": "oh_julie",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -606,7 +606,7 @@
 		},
 		{
 			"channel": "layanaqueen",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
