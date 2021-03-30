@@ -136,7 +136,7 @@
 		},
 		{ 
 			"channel": "iamjoyxs",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -151,7 +151,7 @@
 		},
 		{ 
 			"channel": "carolinaherera",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -511,7 +511,7 @@
 		},
 		{ 
 			"channel": "dariaa_doll",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -641,7 +641,7 @@
 		},
 		{
 			"channel": "sun_shine_baby",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{
@@ -727,6 +727,11 @@
 		{
 			"channel": "pavlovacolucci",
 			"enabled": "false",
+			"quality" : "720p"
+		},
+		{
+			"channel": "blisssful",
+			"enabled": "true",
 			"quality" : "720p"
 		}
 	]
