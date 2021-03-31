@@ -641,7 +641,7 @@
 		},
 		{
 			"channel": "sun_shine_baby",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
