@@ -733,6 +733,11 @@
 			"channel": "blisssful",
 			"enabled": "false",
 			"quality" : "720p"
+		},
+		{
+			"channel": "terryadorable",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
