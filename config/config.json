@@ -441,7 +441,7 @@
 		},
 		{ 
 			"channel": "mabel_n_mike",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
