@@ -111,7 +111,7 @@
 		},
 		{ 
 			"channel": "oh_julie",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -561,7 +561,7 @@
 		},
 		{ 
 			"channel": "asiann_princess",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
