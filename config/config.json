@@ -738,6 +738,11 @@
 			"channel": "terryadorable",
 			"enabled": "true",
 			"quality" : "720p"
+		},
+		{
+			"channel": "kronniekray",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
