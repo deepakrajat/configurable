@@ -743,6 +743,11 @@
 			"channel": "kronniekray",
 			"enabled": "true",
 			"quality" : "720p"
+		},
+		{
+			"channel": "susanroyy",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
