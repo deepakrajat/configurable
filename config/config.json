@@ -171,7 +171,7 @@
 		},
 		{
 			"channel": "love_novel",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
@@ -626,7 +626,7 @@
 		},
 		{
 			"channel": "amazing_roxana",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
@@ -761,6 +761,11 @@
 		},
 		{
 			"channel": "queenieandliam",
+			"enabled": "true",
+			"quality" : "720p"
+		},
+		{
+			"channel": "xxxx13xxxx",
 			"enabled": "true",
 			"quality" : "720p"
 		}
