@@ -768,6 +768,11 @@
 			"channel": "xxxx13xxxx",
 			"enabled": "true",
 			"quality" : "720p"
+		},
+		{
+			"channel": "greydesire69",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
