@@ -36,7 +36,7 @@
 		},
 		{ 
 			"channel": "haileygrx",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -731,7 +731,7 @@
 		},
 		{
 			"channel": "blisssful",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
