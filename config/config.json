@@ -296,7 +296,7 @@
 		},
 		{ 
 			"channel": "miss_juliaa",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -441,7 +441,7 @@
 		},
 		{ 
 			"channel": "mabel_n_mike",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
