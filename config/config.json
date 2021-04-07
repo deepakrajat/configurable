@@ -21,7 +21,7 @@
 		},
 		{ 
 			"channel": "ellilovesu",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -81,12 +81,12 @@
 		},
 		{ 
 			"channel": "via0300",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
 			"channel": "fit___girl",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -151,7 +151,7 @@
 		},
 		{ 
 			"channel": "carolinaherera",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -276,7 +276,7 @@
 		},
 		{ 
 			"channel": "sonjashy",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -761,7 +761,7 @@
 		},
 		{
 			"channel": "queenieandliam",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
@@ -771,7 +771,7 @@
 		},
 		{
 			"channel": "greydesire69",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		}
 	]
