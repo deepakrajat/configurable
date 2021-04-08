@@ -773,6 +773,11 @@
 			"channel": "greydesire69",
 			"enabled": "false",
 			"quality" : "720p"
+		},
+		{
+			"channel": "anabelle_wet",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
