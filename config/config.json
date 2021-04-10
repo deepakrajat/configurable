@@ -561,7 +561,7 @@
 		},
 		{ 
 			"channel": "asiann_princess",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -746,7 +746,7 @@
 		},
 		{
 			"channel": "susanroyy",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
