@@ -181,7 +181,7 @@
 		},
 		{ 
 			"channel": "didiactive",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
@@ -206,7 +206,7 @@
 		},
 		{ 
 			"channel": "sweetboobss1",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -256,7 +256,7 @@
 		},
 		{ 
 			"channel": "ninaharma",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -791,7 +791,7 @@
 		},
 		{
 			"channel": "ketrin_blu",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
