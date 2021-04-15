@@ -783,6 +783,11 @@
 			"channel": "littlesweettifany",
 			"enabled": "true",
 			"quality" : "720p"
+		},
+		{
+			"channel": "sarahxsamantha",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
