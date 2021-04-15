@@ -788,6 +788,16 @@
 			"channel": "sarahxsamantha",
 			"enabled": "true",
 			"quality" : "720p"
+		},
+		{
+			"channel": "ketrin_blu",
+			"enabled": "true",
+			"quality" : "720p"
+		},
+		{
+			"channel": "diamond_jo",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
