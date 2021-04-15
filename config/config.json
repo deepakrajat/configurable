@@ -778,6 +778,11 @@
 			"channel": "anabelle_wet",
 			"enabled": "false",
 			"quality" : "720p"
+		},
+		{
+			"channel": "littlesweettifany",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
