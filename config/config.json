@@ -26,7 +26,7 @@
 		},
 		{ 
 			"channel": "angela_ride",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -81,7 +81,7 @@
 		},
 		{ 
 			"channel": "via0300",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -141,7 +141,7 @@
 		},
 		{ 
 			"channel": "yourlovelyfelicia",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -641,7 +641,7 @@
 		},
 		{
 			"channel": "sun_shine_baby",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
@@ -731,7 +731,7 @@
 		},
 		{
 			"channel": "blisssful",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{
@@ -766,7 +766,7 @@
 		},
 		{
 			"channel": "xxxx13xxxx",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
@@ -786,7 +786,7 @@
 		},
 		{
 			"channel": "sarahxsamantha",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
