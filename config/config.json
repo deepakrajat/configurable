@@ -796,7 +796,7 @@
 		},
 		{
 			"channel": "diamond_jo",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		}
 	]
