@@ -586,7 +586,7 @@
 		},
 		{
 			"channel": "doll_lexi",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{
