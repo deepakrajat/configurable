@@ -751,7 +751,7 @@
 		},
 		{
 			"channel": "dominyvenus",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{
