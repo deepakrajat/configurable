@@ -731,7 +731,7 @@
 		},
 		{
 			"channel": "blisssful",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
@@ -797,6 +797,26 @@
 		{
 			"channel": "diamond_jo",
 			"enabled": "false",
+			"quality" : "720p"
+		},
+		{
+			"channel": "fallen_angel_18",
+			"enabled": "true",
+			"quality" : "720p"
+		},
+		{
+			"channel": "ladyleea",
+			"enabled": "true",
+			"quality" : "720p"
+		},
+		{
+			"channel": "the_wolf_xxx",
+			"enabled": "true",
+			"quality" : "720p"
+		},
+		{
+			"channel": "fkn_couple",
+			"enabled": "true",
 			"quality" : "720p"
 		}
 	]
