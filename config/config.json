@@ -46,7 +46,7 @@
 		},
 		{ 
 			"channel": "sexyru_couple",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -821,6 +821,11 @@
 		},
 		{
 			"channel": "firefox_",
+			"enabled": "true",
+			"quality" : "720p"
+		},
+		{
+			"channel": "little_flower_",
 			"enabled": "true",
 			"quality" : "720p"
 		}
