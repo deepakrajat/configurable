@@ -121,7 +121,7 @@
 		},
 		{ 
 			"channel": "kathy_baby",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
