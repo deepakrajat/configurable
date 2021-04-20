@@ -831,7 +831,7 @@
 		},
 		{
 			"channel": "tselika",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		}
 	]
