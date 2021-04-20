@@ -181,7 +181,7 @@
 		},
 		{ 
 			"channel": "didiactive",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -526,7 +526,7 @@
 		},
 		{ 
 			"channel": "me_emily",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
@@ -806,7 +806,7 @@
 		},
 		{
 			"channel": "ladyleea",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
