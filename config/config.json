@@ -828,6 +828,11 @@
 			"channel": "little_flower_",
 			"enabled": "true",
 			"quality" : "720p"
+		},
+		{
+			"channel": "tselika",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
