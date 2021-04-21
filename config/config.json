@@ -838,6 +838,11 @@
 			"channel": "redhoty01",
 			"enabled": "true",
 			"quality" : "720p"
+		},
+		{
+			"channel": "fit_american_girl",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
