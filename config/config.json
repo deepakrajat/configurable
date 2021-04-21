@@ -836,7 +836,7 @@
 		},
 		{
 			"channel": "redhoty01",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
