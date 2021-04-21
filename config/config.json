@@ -136,7 +136,7 @@
 		},
 		{ 
 			"channel": "iamjoyxs",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -841,7 +841,7 @@
 		},
 		{
 			"channel": "fit_american_girl",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		}
 	]
