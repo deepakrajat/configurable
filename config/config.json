@@ -7,17 +7,17 @@
 	    	{
 			"channel": "coverm",
 			"enabled": "true",
-			"quality" : "720p"
+			"quality" : "best"
 		},
 		{ 
 			"channel": "stripmango",
 			"enabled": "true",
-			"quality" : "720p"
+			"quality" : "best"
 		},
 		{ 
 			"channel": "slemgem",
 			"enabled": "true",
-			"quality" : "720p"
+			"quality" : "best"
 		},
 		{ 
 			"channel": "ellilovesu",
