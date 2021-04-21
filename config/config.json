@@ -36,7 +36,7 @@
 		},
 		{ 
 			"channel": "haileygrx",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
@@ -526,7 +526,7 @@
 		},
 		{ 
 			"channel": "me_emily",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -781,7 +781,7 @@
 		},
 		{
 			"channel": "littlesweettifany",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
@@ -826,12 +826,12 @@
 		},
 		{
 			"channel": "little_flower_",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
 			"channel": "tselika",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		}
 	]
