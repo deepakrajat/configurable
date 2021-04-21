@@ -746,7 +746,7 @@
 		},
 		{
 			"channel": "susanroyy",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{
@@ -832,6 +832,11 @@
 		{
 			"channel": "tselika",
 			"enabled": "false",
+			"quality" : "720p"
+		},
+		{
+			"channel": "redhoty01",
+			"enabled": "true",
 			"quality" : "720p"
 		}
 	]
