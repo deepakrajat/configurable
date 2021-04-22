@@ -12,12 +12,12 @@
 		{ 
 			"channel": "stripmango",
 			"enabled": "true",
-			"quality" : "best"
+			"quality" : "720p"
 		},
 		{ 
 			"channel": "slemgem",
 			"enabled": "true",
-			"quality" : "best"
+			"quality" : "720p"
 		},
 		{ 
 			"channel": "ellilovesu",
