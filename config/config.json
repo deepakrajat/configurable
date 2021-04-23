@@ -7,17 +7,17 @@
 	    	{
 			"channel": "coverm",
 			"enabled": "true",
-			"quality" : "best"
+			"quality" : "1080p"
 		},
 		{ 
 			"channel": "stripmango",
 			"enabled": "true",
-			"quality" : "720p"
+			"quality" : "1080p"
 		},
 		{ 
 			"channel": "slemgem",
 			"enabled": "true",
-			"quality" : "720p"
+			"quality" : "1080p"
 		},
 		{ 
 			"channel": "ellilovesu",
@@ -52,7 +52,7 @@
 		{ 
 			"channel": "little_dutch",
 			"enabled": "true",
-			"quality" : "720p"
+			"quality" : "1080p"
 		},
 		{ 
 			"channel": "girl_of_yourdreams",
