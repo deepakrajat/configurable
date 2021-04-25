@@ -221,7 +221,7 @@
 		},
 		{ 
 			"channel": "iren_wagner",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
@@ -855,8 +855,8 @@
 			"quality" : "720p"
 		},
 		{
-			"channel": "emmasweetx",
-			"enabled": "false",
+			"channel": "lola_jd",
+			"enabled": "true",
 			"quality" : "720p"
 		}
 	]
