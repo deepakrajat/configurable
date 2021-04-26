@@ -7,7 +7,7 @@
 	    	{
 			"channel": "coverm",
 			"enabled": "true",
-			"quality" : "720p"
+			"quality" : "1080p"
 		},
 		{ 
 			"channel": "stripmango",
@@ -17,7 +17,7 @@
 		{ 
 			"channel": "slemgem",
 			"enabled": "true",
-			"quality" : "1080p"
+			"quality" : "720p"
 		},
 		{ 
 			"channel": "ellilovesu",
@@ -27,7 +27,7 @@
 		{ 
 			"channel": "angela_ride",
 			"enabled": "true",
-			"quality" : "720p"
+			"quality" : "1080p"
 		},
 		{ 
 			"channel": "anyeess",
@@ -857,7 +857,7 @@
 		{
 			"channel": "lola_jd",
 			"enabled": "true",
-			"quality" : "best
+			"quality" : "best"
 		}
 	]
 }
