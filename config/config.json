@@ -857,7 +857,12 @@
 		{
 			"channel": "lola_jd",
 			"enabled": "true",
-			"quality" : "best"
+			"quality" : "1080p"
+		},
+		{
+			"channel": "sexymia_art",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
