@@ -17,7 +17,7 @@
 		{ 
 			"channel": "slemgem",
 			"enabled": "true",
-			"quality" : "1080p60"
+			"quality" : "best"
 		},
 		{ 
 			"channel": "ellilovesu",
