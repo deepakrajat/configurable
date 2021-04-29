@@ -736,7 +736,7 @@
 		},
 		{
 			"channel": "bootyful_dream",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{
