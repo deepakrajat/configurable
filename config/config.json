@@ -821,7 +821,7 @@
 		},
 		{
 			"channel": "fkn_couple",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{
