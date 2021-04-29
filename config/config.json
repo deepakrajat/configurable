@@ -735,6 +735,11 @@
 			"quality" : "720p"
 		},
 		{
+			"channel": "bootyful_dream",
+			"enabled": "true",
+			"quality" : "720p"
+		},
+		{
 			"channel": "terryadorable",
 			"enabled": "true",
 			"quality" : "720p"
@@ -816,7 +821,7 @@
 		},
 		{
 			"channel": "fkn_couple",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
