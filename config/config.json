@@ -868,6 +868,21 @@
 			"channel": "sexymia_art",
 			"enabled": "true",
 			"quality" : "720p"
+		},
+		{
+			"channel": "milanaaafit",
+			"enabled": "true",
+			"quality" : "1080p"
+		},
+		{
+			"channel": "super_paulina94",
+			"enabled": "true",
+			"quality" : "720p"
+		},
+		{
+			"channel": "patricia_bloom",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
