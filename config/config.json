@@ -883,6 +883,11 @@
 			"channel": "patricia_bloom",
 			"enabled": "true",
 			"quality" : "720p"
-		}
+		},
+		{
+			"channel": "touch_me111",
+			"enabled": "true",
+			"quality" : "720p"
+		} 
 	]
 }
