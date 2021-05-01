@@ -886,7 +886,7 @@
 		},
 		{
 			"channel": "touch_me111",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		} 
 	]
