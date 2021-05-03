@@ -888,6 +888,11 @@
 			"channel": "angel_pinky",
 			"enabled": "true",
 			"quality" : "720p"
-		} 
+		},
+		{
+			"channel": "abie_owen",
+			"enabled": "true",
+			"quality" : "720p"
+		}
 	]
 }
