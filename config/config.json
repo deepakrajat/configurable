@@ -885,8 +885,8 @@
 			"quality" : "720p"
 		},
 		{
-			"channel": "touch_me111",
-			"enabled": "false",
+			"channel": "angel_pinky",
+			"enabled": "true",
 			"quality" : "720p"
 		} 
 	]
