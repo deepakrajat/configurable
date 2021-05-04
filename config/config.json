@@ -46,7 +46,7 @@
 		},
 		{ 
 			"channel": "sexyru_couple",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -111,7 +111,7 @@
 		},
 		{ 
 			"channel": "oh_julie",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
@@ -181,7 +181,7 @@
 		},
 		{ 
 			"channel": "didiactive",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
@@ -241,7 +241,7 @@
 		},
 		{ 
 			"channel": "valeria_green99",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
