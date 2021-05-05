@@ -21,7 +21,7 @@
 		},
 		{ 
 			"channel": "ellilovesu",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -31,7 +31,7 @@
 		},
 		{ 
 			"channel": "anyeess",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
@@ -181,7 +181,7 @@
 		},
 		{ 
 			"channel": "didiactive",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -206,7 +206,7 @@
 		},
 		{ 
 			"channel": "sweetboobss1",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -256,7 +256,7 @@
 		},
 		{ 
 			"channel": "ninaharma",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -276,7 +276,7 @@
 		},
 		{ 
 			"channel": "sonjashy",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -621,7 +621,7 @@
 		},
 		{
 			"channel": "_milkyway",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
@@ -825,11 +825,6 @@
 			"quality" : "720p"
 		},
 		{
-			"channel": "firefox_",
-			"enabled": "true",
-			"quality" : "720p"
-		},
-		{
 			"channel": "little_flower_",
 			"enabled": "false",
 			"quality" : "720p"
@@ -891,6 +886,11 @@
 		},
 		{
 			"channel": "abie_owen",
+			"enabled": "false",
+			"quality" : "720p"
+		},
+		{
+			"channel": "firefox_",
 			"enabled": "true",
 			"quality" : "720p"
 		}
