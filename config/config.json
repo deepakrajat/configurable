@@ -830,8 +830,8 @@
 			"quality" : "720p"
 		},
 		{
-			"channel": "tselika",
-			"enabled": "false",
+			"channel": "sweety_rinushka_",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{
@@ -857,7 +857,7 @@
 		{
 			"channel": "lola_jd",
 			"enabled": "true",
-			"quality" : "1080p"
+			"quality" : "720p"
 		},
 		{
 			"channel": "sexymia_art",
