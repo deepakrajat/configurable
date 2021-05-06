@@ -893,6 +893,11 @@
 			"channel": "firefox_",
 			"enabled": "true",
 			"quality" : "720p"
+		},
+		{
+			"channel": "liass_molly",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
