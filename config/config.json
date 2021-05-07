@@ -61,7 +61,7 @@
 		},
 		{ 
 			"channel": "stacy_magic",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
@@ -216,7 +216,7 @@
 		},
 		{ 
 			"channel": "veola_new",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
@@ -746,12 +746,12 @@
 		},
 		{
 			"channel": "kronniekray",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{
 			"channel": "susanroyy",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{
