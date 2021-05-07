@@ -511,7 +511,7 @@
 		},
 		{ 
 			"channel": "dariaa_doll",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
