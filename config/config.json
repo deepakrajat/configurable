@@ -150,6 +150,11 @@
 			"quality" : "720p"
 		},
 		{ 
+			"channel": "oh_julie",
+			"enabled": "true",
+			"quality" : "best"
+		},
+		{ 
 			"channel": "ellilovesu",
 			"enabled": "false",
 			"quality" : "720p"
@@ -221,11 +226,6 @@
 		},
 		{ 
 			"channel": "abigail_w",
-			"enabled": "false",
-			"quality" : "720p"
-		},
-		{ 
-			"channel": "oh_julie",
 			"enabled": "false",
 			"quality" : "720p"
 		},
