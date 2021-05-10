@@ -122,7 +122,7 @@
 		{
 			"channel": "firefox_",
 			"enabled": "true",
-			"quality" : "720p"
+			"quality" : "best"
 		},
 		{ 
 			"channel": "kittycaitlin",
