@@ -70,11 +70,6 @@
 			"quality" : "720p"
 		},
 		{
-			"channel": "bootyful_dream",
-			"enabled": "false",
-			"quality" : "720p"
-		},
-		{
 			"channel": "terryadorable",
 			"enabled": "true",
 			"quality" : "720p"
@@ -153,6 +148,11 @@
 			"channel": "oh_julie",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "bootyful_dream",
+			"enabled": "false",
+			"quality" : "720p"
 		},
 		{ 
 			"channel": "ellilovesu",
