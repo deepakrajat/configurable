@@ -95,11 +95,6 @@
 			"quality" : "720p"
 		},
 		{
-			"channel": "kitty_ricky",
-			"enabled": "true",
-			"quality" : "720p"
-		},
-		{
 			"channel": "patricia_bloom",
 			"enabled": "true",
 			"quality" : "720p"
@@ -144,9 +139,14 @@
 			"enabled": "true",
 			"quality" : "720p"
 		},
+		{
+			"channel": "kitty_ricky",
+			"enabled": "false",
+			"quality" : "720p"
+		},
 		{ 
 			"channel": "oh_julie",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
