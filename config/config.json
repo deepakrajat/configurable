@@ -86,7 +86,7 @@
 		},
 		{
 			"channel": "fallen_angel_18",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
@@ -148,6 +148,11 @@
 			"channel": "tiffanyhouston_",
 			"enabled": "true",
 			"quality" : "720p"
+		},
+		{ 
+			"channel": "carolinaherera",
+			"enabled": "true",
+			"quality" : "best"
 		},
 		{
 			"channel": "kitty_ricky",
@@ -256,11 +261,6 @@
 		},
 		{ 
 			"channel": "olivia_deviline",
-			"enabled": "false",
-			"quality" : "720p"
-		},
-		{ 
-			"channel": "carolinaherera",
 			"enabled": "false",
 			"quality" : "720p"
 		},
