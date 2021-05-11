@@ -154,6 +154,11 @@
 			"enabled": "true",
 			"quality" : "best"
 		},
+		{ 
+			"channel": "girl_of_yourdreams",
+			"enabled": "true",
+			"quality" : "720p"
+		},
 		{
 			"channel": "kitty_ricky",
 			"enabled": "false",
@@ -191,11 +196,6 @@
 		},
 		{ 
 			"channel": "sexyru_couple",
-			"enabled": "false",
-			"quality" : "720p"
-		},
-		{ 
-			"channel": "girl_of_yourdreams",
 			"enabled": "false",
 			"quality" : "720p"
 		},
