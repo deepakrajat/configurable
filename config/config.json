@@ -144,6 +144,11 @@
 			"enabled": "true",
 			"quality" : "best"
 		},
+		{ 
+			"channel": "tiffanyhouston_",
+			"enabled": "true",
+			"quality" : "720p"
+		},
 		{
 			"channel": "kitty_ricky",
 			"enabled": "false",
