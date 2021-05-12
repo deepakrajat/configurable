@@ -150,6 +150,11 @@
 			"quality" : "best"
 		},
 		{ 
+			"channel": "veola_new",
+			"enabled": "true",
+			"quality" : "720p"
+		},
+		{ 
 			"channel": "carolinaherera",
 			"enabled": "false",
 			"quality" : "best"
@@ -321,11 +326,6 @@
 		},
 		{ 
 			"channel": "tanya_welth",
-			"enabled": "false",
-			"quality" : "720p"
-		},
-		{ 
-			"channel": "veola_new",
 			"enabled": "false",
 			"quality" : "720p"
 		},
