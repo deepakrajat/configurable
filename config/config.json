@@ -145,13 +145,18 @@
 			"quality" : "720p"
 		},
 		{ 
-			"channel": "carolinaherera",
+			"channel": "sweetboobss1",
 			"enabled": "true",
 			"quality" : "best"
 		},
 		{ 
+			"channel": "carolinaherera",
+			"enabled": "false",
+			"quality" : "best"
+		},
+		{ 
 			"channel": "girl_of_yourdreams",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
@@ -311,11 +316,6 @@
 		},
 		{ 
 			"channel": "k_kimikoo",
-			"enabled": "false",
-			"quality" : "720p"
-		},
-		{ 
-			"channel": "sweetboobss1",
 			"enabled": "false",
 			"quality" : "720p"
 		},
