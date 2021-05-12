@@ -52,7 +52,7 @@
 		{
 			"channel": "princess_sweety",
 			"enabled": "true",
-			"quality" : "720p"
+			"quality" : "best"
 		},
 		{
 			"channel": "amazing_roxana",
@@ -153,6 +153,11 @@
 			"channel": "veola_new",
 			"enabled": "true",
 			"quality" : "720p"
+		},
+		{ 
+			"channel": "emilia98xxx",
+			"enabled": "true",
+			"quality" : "best"
 		},
 		{ 
 			"channel": "carolinaherera",
@@ -396,11 +401,6 @@
 		},
 		{ 
 			"channel": "roxanjunk",
-			"enabled": "false",
-			"quality" : "720p"
-		},
-		{ 
-			"channel": "emilia98xxx",
 			"enabled": "false",
 			"quality" : "720p"
 		},
