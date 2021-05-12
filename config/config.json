@@ -160,6 +160,11 @@
 			"quality" : "best"
 		},
 		{ 
+			"channel": "angela_ride",
+			"enabled": "true",
+			"quality" : "best"
+		},
+		{ 
 			"channel": "carolinaherera",
 			"enabled": "false",
 			"quality" : "best"
@@ -186,11 +191,6 @@
 		},
 		{ 
 			"channel": "ellilovesu",
-			"enabled": "false",
-			"quality" : "720p"
-		},
-		{ 
-			"channel": "angela_ride",
 			"enabled": "false",
 			"quality" : "720p"
 		},
