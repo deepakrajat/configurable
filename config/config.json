@@ -45,11 +45,6 @@
 			"quality" : "720p"
 		},
 		{ 
-			"channel": "iamjoyxs",
-			"enabled": "true",
-			"quality" : "720p"
-		},
-		{ 
 			"channel": "casey_ann",
 			"enabled": "true",
 			"quality" : "720p"
@@ -167,6 +162,11 @@
 		{
 			"channel": "bootyful_dream",
 			"enabled": "true",
+			"quality" : "720p"
+		},
+		{ 
+			"channel": "iamjoyxs",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
