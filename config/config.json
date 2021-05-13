@@ -27,7 +27,7 @@
 		{
 			"channel": "drug_girl",
 			"enabled": "true",
-			"quality" : "720p"
+			"quality" : "best"
 		},
 		{
 			"channel": "lola_jd",
@@ -42,7 +42,7 @@
 		{ 
 			"channel": "roxy_blue_eyed_",
 			"enabled": "true",
-			"quality" : "720p"
+			"quality" : "best"
 		},
 		{ 
 			"channel": "casey_ann",
@@ -150,11 +150,6 @@
 			"quality" : "best"
 		},
 		{ 
-			"channel": "veola_new",
-			"enabled": "true",
-			"quality" : "720p"
-		},
-		{ 
 			"channel": "emilia98xxx",
 			"enabled": "true",
 			"quality" : "best"
@@ -182,6 +177,11 @@
 		{
 			"channel": "bootyful_dream",
 			"enabled": "true",
+			"quality" : "720p"
+		},
+		{ 
+			"channel": "veola_new",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
