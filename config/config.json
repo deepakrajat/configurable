@@ -114,6 +114,11 @@
 			"enabled": "true",
 			"quality" : "720p"
 		},
+		{
+			"channel": "blue_lag00n",
+			"enabled": "true",
+			"quality" : "720p"
+		},
 		{ 
 			"channel": "kittycaitlin",
 			"enabled": "false",
