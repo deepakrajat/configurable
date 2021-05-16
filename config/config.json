@@ -71,12 +71,12 @@
 		},
 		{
 			"channel": "fallen_angel_18",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{
 			"channel": "abie_owen",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{
@@ -86,7 +86,7 @@
 		},
 		{
 			"channel": "dianaholiday",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
