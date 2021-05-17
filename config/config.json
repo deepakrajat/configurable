@@ -64,14 +64,9 @@
 			"enabled": "true",
 			"quality" : "best"
 		},
-		{
-			"channel": "susanroyy",
-			"enabled": "false",
-			"quality" : "best"
-		},
-		{
-			"channel": "fallen_angel_18",
-			"enabled": "false",
+		{ 
+			"channel": "ellilovesu",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{
@@ -83,11 +78,6 @@
 			"channel": "firefox_",
 			"enabled": "true",
 			"quality" : "best"
-		},
-		{
-			"channel": "dianaholiday",
-			"enabled": "false",
-			"quality" : "720p"
 		},
 		{
 			"channel": "blue_lag00n",
@@ -104,15 +94,20 @@
 			"enabled": "true",
 			"quality" : "best"
 		},
+		{
+			"channel": "coupluxx",
+			"enabled": "true",
+			"quality" : "720p"
+		},
 		{ 
 			"channel": "tiffanyhouston_",
 			"enabled": "false",
 			"quality" : "best"
 		},
 		{
-			"channel": "coupluxx",
-			"enabled": "true",
-			"quality" : "720p"
+			"channel": "fallen_angel_18",
+			"enabled": "false",
+			"quality" : "best"
 		},
 		{ 
 			"channel": "sweetboobss1",
@@ -136,6 +131,16 @@
 		},
 		{ 
 			"channel": "carolinaherera",
+			"enabled": "false",
+			"quality" : "best"
+		},
+		{
+			"channel": "dianaholiday",
+			"enabled": "false",
+			"quality" : "720p"
+		},
+		{
+			"channel": "susanroyy",
 			"enabled": "false",
 			"quality" : "best"
 		},
@@ -201,11 +206,6 @@
 		},
 		{ 
 			"channel": "iamjoyxs",
-			"enabled": "false",
-			"quality" : "720p"
-		},
-		{ 
-			"channel": "ellilovesu",
 			"enabled": "false",
 			"quality" : "720p"
 		},
