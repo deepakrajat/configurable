@@ -216,7 +216,7 @@
 		},
 		{ 
 			"channel": "haileygrx",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
