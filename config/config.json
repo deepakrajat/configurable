@@ -99,6 +99,41 @@
 			"enabled": "true",
 			"quality" : "720p"
 		},
+		{
+			"channel": "kronniekray",
+			"enabled": "true",
+			"quality" : "720p"
+		},
+		{
+			"channel": "sex_revolution",
+			"enabled": "true",
+			"quality" : "720p"
+		},
+		{
+			"channel": "patricia_bloom",
+			"enabled": "true",
+			"quality" : "720p"
+		},
+		{ 
+			"channel": "haileygrx",
+			"enabled": "true",
+			"quality" : "720p"
+		},
+		{ 
+			"channel": "stacimarierose",
+			"enabled": "true",
+			"quality" : "720p"
+		},
+		{ 
+			"channel": "agelina_summer",
+			"enabled": "true",
+			"quality" : "720p"
+		},
+		{ 
+			"channel": "chupa_chups_",
+			"enabled": "true",
+			"quality" : "720p"
+		},
 		{ 
 			"channel": "tiffanyhouston_",
 			"enabled": "false",
@@ -124,11 +159,6 @@
 			"enabled": "false",
 			"quality" : "best"
 		},
-		{
-			"channel": "kronniekray",
-			"enabled": "true",
-			"quality" : "720p"
-		},
 		{ 
 			"channel": "carolinaherera",
 			"enabled": "false",
@@ -137,11 +167,6 @@
 		{
 			"channel": "sylvieadorablegrl_",
 			"enabled": "false",
-			"quality" : "720p"
-		},
-		{
-			"channel": "sex_revolution",
-			"enabled": "true",
 			"quality" : "720p"
 		},
 		{
@@ -195,11 +220,6 @@
 			"quality" : "720p"
 		},
 		{
-			"channel": "patricia_bloom",
-			"enabled": "true",
-			"quality" : "720p"
-		},
-		{
 			"channel": "angel_pinky",
 			"enabled": "false",
 			"quality" : "720p"
@@ -222,11 +242,6 @@
 		{ 
 			"channel": "anyeess",
 			"enabled": "false",
-			"quality" : "720p"
-		},
-		{ 
-			"channel": "haileygrx",
-			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
