@@ -111,8 +111,8 @@
 		},
 		{
 			"channel": "patricia_bloom",
-			"enabled": "true",
-			"quality" : "best"
+			"enabled": "false",
+			"quality" : "720p"
 		},
 		{ 
 			"channel": "haileygrx",
@@ -721,8 +721,8 @@
 		},
 		{
 			"channel": "doll_lexi",
-			"enabled": "true",
-			"quality" : "720p"
+			"enabled": "false",
+			"quality" : "best"
 		},
 		{
 			"channel": "skarlet_and_johnny",
