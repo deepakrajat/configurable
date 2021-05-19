@@ -126,12 +126,12 @@
 		},
 		{ 
 			"channel": "agelina_summer",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
 			"channel": "chupa_chups_",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
