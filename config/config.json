@@ -110,18 +110,28 @@
 			"quality" : "720p"
 		},
 		{ 
-			"channel": "stacimarierose",
-			"enabled": "true",
-			"quality" : "720p"
-		},
-		{ 
 			"channel": "_myaa",
 			"enabled": "true",
 			"quality" : "best"
 		},
+		{ 
+			"channel": "pink_angels",
+			"enabled": "true",
+			"quality" : "best"
+		},
+		{
+			"channel": "anabelle_wet",
+			"enabled": "true",
+			"quality" : "best"
+		},
+		{ 
+			"channel": "stacimarierose",
+			"enabled": "false",
+			"quality" : "720p"
+		},
 		{
 			"channel": "fkn_couple",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -876,11 +886,6 @@
 		},
 		{
 			"channel": "greydesire69",
-			"enabled": "false",
-			"quality" : "720p"
-		},
-		{
-			"channel": "anabelle_wet",
 			"enabled": "false",
 			"quality" : "720p"
 		},
