@@ -106,12 +106,12 @@
 		},
 		{ 
 			"channel": "_myaa",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
 			"channel": "cristall_white",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
