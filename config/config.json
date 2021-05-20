@@ -105,6 +105,11 @@
 			"quality" : "720p"
 		},
 		{ 
+			"channel": "aalliss",
+			"enabled": "true",
+			"quality" : "best"
+		},
+		{ 
 			"channel": "_myaa",
 			"enabled": "false",
 			"quality" : "best"
@@ -431,11 +436,6 @@
 		},
 		{ 
 			"channel": "ninaharma",
-			"enabled": "false",
-			"quality" : "720p"
-		},
-		{ 
-			"channel": "aalliss",
 			"enabled": "false",
 			"quality" : "720p"
 		},
