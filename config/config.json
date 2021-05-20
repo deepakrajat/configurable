@@ -109,6 +109,11 @@
 			"enabled": "true",
 			"quality" : "best"
 		},
+		{
+			"channel": "doll_lexi",
+			"enabled": "true",
+			"quality" : "best"
+		},
 		{ 
 			"channel": "_myaa",
 			"enabled": "false",
@@ -738,11 +743,6 @@
 			"channel": "emerald_breeze",
 			"enabled": "false",
 			"quality" : "720p"
-		},
-		{
-			"channel": "doll_lexi",
-			"enabled": "false",
-			"quality" : "best"
 		},
 		{
 			"channel": "skarlet_and_johnny",
