@@ -79,11 +79,6 @@
 			"enabled": "true",
 			"quality" : "best"
 		},
-		{
-			"channel": "kerelai",
-			"enabled": "true",
-			"quality" : "best"
-		},
 		{ 
 			"channel": "stacy_magic",
 			"enabled": "true",
@@ -115,13 +110,23 @@
 			"quality" : "best"
 		},
 		{ 
-			"channel": "pink_angels",
+			"channel": "cristall_white",
 			"enabled": "true",
 			"quality" : "best"
 		},
 		{
+			"channel": "kerelai",
+			"enabled": "false",
+			"quality" : "best"
+		},
+		{ 
+			"channel": "pink_angels",
+			"enabled": "false",
+			"quality" : "best"
+		},
+		{
 			"channel": "anabelle_wet",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
