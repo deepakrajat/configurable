@@ -80,8 +80,8 @@
 			"quality" : "best"
 		},
 		{
-			"channel": "blue_lag00n",
-			"enabled": "false",
+			"channel": "kerelai",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{ 
@@ -125,12 +125,12 @@
 			"quality" : "best"
 		},
 		{
-			"channel": "20mellty",
+			"channel": "blue_lag00n",
 			"enabled": "false",
-			"quality" : "720p"
+			"quality" : "best"
 		},
 		{
-			"channel": "sex_revolution",
+			"channel": "20mellty",
 			"enabled": "false",
 			"quality" : "720p"
 		},
