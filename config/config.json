@@ -120,8 +120,13 @@
 			"quality" : "best"
 		},
 		{
-			"channel": "20mellty",
+			"channel": "fkn_couple",
 			"enabled": "true",
+			"quality" : "best"
+		},
+		{
+			"channel": "20mellty",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
@@ -218,11 +223,6 @@
 			"channel": "kittycaitlin",
 			"enabled": "false",
 			"quality" : "720p"
-		},
-		{
-			"channel": "fkn_couple",
-			"enabled": "true",
-			"quality" : "best"
 		},
 		{
 			"channel": "angel_pinky",
