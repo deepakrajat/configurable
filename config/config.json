@@ -81,7 +81,7 @@
 		},
 		{
 			"channel": "blue_lag00n",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
