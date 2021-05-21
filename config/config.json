@@ -291,8 +291,8 @@
 		},
 		{
  			"channel": "3threesomelove3",
-			"enabled": "false",
-			"quality" : "720p"
+			"enabled": "true",
+			"quality" : "best"
 		},
 		{ 
 			"channel": "hotbella_",
