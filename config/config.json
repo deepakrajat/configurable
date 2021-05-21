@@ -102,7 +102,7 @@
 		{ 
 			"channel": "haileygrx",
 			"enabled": "true",
-			"quality" : "720p"
+			"quality" : "best"
 		},
 		{ 
 			"channel": "aalliss",
