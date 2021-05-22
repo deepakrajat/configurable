@@ -96,8 +96,8 @@
 		},
 		{
 			"channel": "kronniekray",
-			"enabled": "true",
-			"quality" : "720p"
+			"enabled": "false",
+			"quality" : "best"
 		},
 		{ 
 			"channel": "haileygrx",
@@ -116,7 +116,7 @@
 		},
 		{ 
 			"channel": "_myaa",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
