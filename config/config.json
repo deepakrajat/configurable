@@ -115,6 +115,11 @@
 			"quality" : "best"
 		},
 		{ 
+			"channel": "yourlovelyfelicia",
+			"enabled": "true",
+			"quality" : "1080p"
+		},
+		{ 
 			"channel": "_myaa",
 			"enabled": "false",
 			"quality" : "best"
@@ -336,11 +341,6 @@
 		},
 		{ 
 			"channel": "_timeless_paradox",
-			"enabled": "false",
-			"quality" : "720p"
-		},
-		{ 
-			"channel": "yourlovelyfelicia",
 			"enabled": "false",
 			"quality" : "720p"
 		},
