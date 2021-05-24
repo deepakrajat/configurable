@@ -121,8 +121,8 @@
 		},
 		{ 
 			"channel": "bad__princess",
-			"enabled": "false",
-			"quality" : "720p"
+			"enabled": "true",
+			"quality" : "best"
 		},
 		{ 
 			"channel": "_myaa",
