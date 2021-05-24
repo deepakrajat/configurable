@@ -136,7 +136,17 @@
 		},
 		{
 			"channel": "kerelai",
-			"enabled": "false",
+			"enabled": "true",
+			"quality" : "best"
+		},
+		{ 
+			"channel": "cyber_baby",
+			"enabled": "true",
+			"quality" : "best"
+		},
+		{
+			"channel": "innocentemmy",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{ 
@@ -371,11 +381,6 @@
 		},
 		{
 			"channel": "love_novel",
-			"enabled": "false",
-			"quality" : "720p"
-		},
-		{ 
-			"channel": "cyber_baby",
 			"enabled": "false",
 			"quality" : "720p"
 		},
