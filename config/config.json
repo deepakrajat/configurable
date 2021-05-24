@@ -136,12 +136,12 @@
 		},
 		{
 			"channel": "kerelai",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
 			"channel": "cyber_baby",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -311,7 +311,7 @@
 		},
 		{
  			"channel": "3threesomelove3",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
