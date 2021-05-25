@@ -176,8 +176,8 @@
 		},
 		{
 			"channel": "20mellty",
-			"enabled": "false",
-			"quality" : "720p"
+			"enabled": "true",
+			"quality" : "best"
 		},
 		{
 			"channel": "patricia_bloom",
