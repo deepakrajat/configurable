@@ -141,7 +141,7 @@
 		},
 		{ 
 			"channel": "cyber_baby",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{
@@ -171,17 +171,17 @@
 		},
 		{
 			"channel": "blue_lag00n",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{
 			"channel": "20mellty",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{
 			"channel": "patricia_bloom",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
@@ -291,8 +291,8 @@
 		},
 		{ 
 			"channel": "anyeess",
-			"enabled": "false",
-			"quality" : "720p"
+			"enabled": "true",
+			"quality" : "best"
 		},
 		{ 
 			"channel": "bunny_room",
