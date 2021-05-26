@@ -95,6 +95,11 @@
 			"quality" : "720p"
 		},
 		{
+			"channel": "hayle_green",
+			"enabled": "true",
+			"quality" : "720p"
+		},
+		{
 			"channel": "kronniekray",
 			"enabled": "false",
 			"quality" : "best"
