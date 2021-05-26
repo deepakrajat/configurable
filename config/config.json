@@ -181,8 +181,8 @@
 		},
 		{
 			"channel": "patricia_bloom",
-			"enabled": "false",
-			"quality" : "720p"
+			"enabled": "true",
+			"quality" : "best"
 		},
 		{ 
 			"channel": "agelina_summer",
