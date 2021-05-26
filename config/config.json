@@ -96,7 +96,7 @@
 		},
 		{
 			"channel": "hayle_green",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
@@ -131,7 +131,7 @@
 		},
 		{ 
 			"channel": "_myaa",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
@@ -186,7 +186,7 @@
 		},
 		{
 			"channel": "patricia_bloom",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{ 
@@ -236,8 +236,8 @@
 		},
 		{
 			"channel": "dianaholiday",
-			"enabled": "false",
-			"quality" : "720p"
+			"enabled": "true",
+			"quality" : "best"
 		},
 		{
 			"channel": "susanroyy",
@@ -286,8 +286,8 @@
 		},
 		{ 
 			"channel": "girl_of_yourdreams",
-			"enabled": "false",
-			"quality" : "720p"
+			"enabled": "true",
+			"quality" : "best"
 		},
 		{ 
 			"channel": "iamjoyxs",
