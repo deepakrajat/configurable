@@ -94,21 +94,6 @@
 			"enabled": "true",
 			"quality" : "720p"
 		},
-		{
-			"channel": "hayle_green",
-			"enabled": "false",
-			"quality" : "720p"
-		},
-		{
-			"channel": "kronniekray",
-			"enabled": "false",
-			"quality" : "best"
-		},
-		{ 
-			"channel": "haileygrx",
-			"enabled": "false",
-			"quality" : "1080p"
-		},
 		{ 
 			"channel": "aalliss",
 			"enabled": "true",
@@ -122,6 +107,41 @@
 		{ 
 			"channel": "yourlovelyfelicia",
 			"enabled": "true",
+			"quality" : "1080p"
+		},
+		{
+			"channel": "fkn_couple",
+			"enabled": "true",
+			"quality" : "best"
+		},
+		{ 
+			"channel": "angela_ride",
+			"enabled": "true",
+			"quality" : "best"
+		},
+		{
+			"channel": "dianaholiday",
+			"enabled": "true",
+			"quality" : "best"
+		},
+		{ 
+			"channel": "girl_of_yourdreams",
+			"enabled": "true",
+			"quality" : "best"
+		},
+		{
+			"channel": "hayle_green",
+			"enabled": "false",
+			"quality" : "720p"
+		},
+		{
+			"channel": "kronniekray",
+			"enabled": "false",
+			"quality" : "best"
+		},
+		{ 
+			"channel": "haileygrx",
+			"enabled": "false",
 			"quality" : "1080p"
 		},
 		{ 
@@ -170,11 +190,6 @@
 			"quality" : "720p"
 		},
 		{
-			"channel": "fkn_couple",
-			"enabled": "true",
-			"quality" : "best"
-		},
-		{
 			"channel": "blue_lag00n",
 			"enabled": "false",
 			"quality" : "best"
@@ -186,7 +201,7 @@
 		},
 		{
 			"channel": "patricia_bloom",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
@@ -201,7 +216,7 @@
 		},
 		{ 
 			"channel": "tiffanyhouston_",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -220,11 +235,6 @@
 			"quality" : "best"
 		},
 		{ 
-			"channel": "angela_ride",
-			"enabled": "false",
-			"quality" : "best"
-		},
-		{ 
 			"channel": "carolinaherera",
 			"enabled": "false",
 			"quality" : "best"
@@ -233,11 +243,6 @@
 			"channel": "sylvieadorablegrl_",
 			"enabled": "false",
 			"quality" : "720p"
-		},
-		{
-			"channel": "dianaholiday",
-			"enabled": "true",
-			"quality" : "best"
 		},
 		{
 			"channel": "susanroyy",
@@ -283,11 +288,6 @@
 			"channel": "veola_new",
 			"enabled": "false",
 			"quality" : "720p"
-		},
-		{ 
-			"channel": "girl_of_yourdreams",
-			"enabled": "true",
-			"quality" : "best"
 		},
 		{ 
 			"channel": "iamjoyxs",
