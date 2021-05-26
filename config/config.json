@@ -101,7 +101,7 @@
 		},
 		{ 
 			"channel": "haileygrx",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "1080p"
 		},
 		{ 
@@ -111,7 +111,7 @@
 		},
 		{
 			"channel": "doll_lexi",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
@@ -181,7 +181,7 @@
 		},
 		{
 			"channel": "patricia_bloom",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
@@ -196,7 +196,7 @@
 		},
 		{ 
 			"channel": "tiffanyhouston_",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{
