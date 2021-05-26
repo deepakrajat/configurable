@@ -141,7 +141,7 @@
 		},
 		{ 
 			"channel": "cyber_baby",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -176,12 +176,12 @@
 		},
 		{
 			"channel": "20mellty",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
 			"channel": "patricia_bloom",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -291,7 +291,7 @@
 		},
 		{ 
 			"channel": "anyeess",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
