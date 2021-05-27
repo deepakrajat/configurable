@@ -81,7 +81,7 @@
 		},
 		{ 
 			"channel": "stacy_magic",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
