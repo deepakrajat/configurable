@@ -70,18 +70,8 @@
 			"quality" : "best"
 		},
 		{
-			"channel": "abie_owen",
-			"enabled": "false",
-			"quality" : "best"
-		},
-		{
 			"channel": "firefox_",
 			"enabled": "true",
-			"quality" : "best"
-		},
-		{ 
-			"channel": "stacy_magic",
-			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
@@ -95,19 +85,39 @@
 			"quality" : "720p"
 		},
 		{ 
-			"channel": "aalliss",
+			"channel": "yourlovelyfelicia",
+			"enabled": "true",
+			"quality" : "1080p"
+		},
+		{
+			"channel": "dianaholiday",
 			"enabled": "true",
 			"quality" : "best"
 		},
 		{
-			"channel": "doll_lexi",
+			"channel": "patricia_bloom",
 			"enabled": "true",
 			"quality" : "best"
 		},
+		{
+			"channel": "abie_owen",
+			"enabled": "false",
+			"quality" : "best"
+		},
 		{ 
-			"channel": "yourlovelyfelicia",
-			"enabled": "true",
-			"quality" : "1080p"
+			"channel": "stacy_magic",
+			"enabled": "false",
+			"quality" : "best"
+		},
+		{ 
+			"channel": "aalliss",
+			"enabled": "false",
+			"quality" : "best"
+		},
+		{
+			"channel": "doll_lexi",
+			"enabled": "false",
+			"quality" : "best"
 		},
 		{
 			"channel": "fkn_couple",
@@ -116,12 +126,7 @@
 		},
 		{ 
 			"channel": "angela_ride",
-			"enabled": "true",
-			"quality" : "best"
-		},
-		{
-			"channel": "dianaholiday",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
@@ -131,12 +136,12 @@
 		},
 		{
 			"channel": "20mellty",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
 			"channel": "lexipoy",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -166,7 +171,7 @@
 		},
 		{ 
 			"channel": "_myaa",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
@@ -207,11 +212,6 @@
 		{
 			"channel": "blue_lag00n",
 			"enabled": "false",
-			"quality" : "best"
-		},
-		{
-			"channel": "patricia_bloom",
-			"enabled": "true",
 			"quality" : "best"
 		},
 		{ 
