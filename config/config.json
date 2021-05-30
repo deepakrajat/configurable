@@ -86,8 +86,8 @@
 		},
 		{ 
 			"channel": "yourlovelyfelicia",
-			"enabled": "true",
-			"quality" : "1080p"
+			"enabled": "false",
+			"quality" : "best"
 		},
 		{
 			"channel": "dianaholiday",
