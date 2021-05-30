@@ -983,6 +983,11 @@
 			"channel": "super_paulina94",
 			"enabled": "false",
 			"quality" : "720p"
+		},
+		{
+			"channel": "click7here",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
