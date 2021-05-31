@@ -100,13 +100,18 @@
 			"quality" : "best"
 		},
 		{
+			"channel": "click7here",
+			"enabled": "true",
+			"quality" : "best"
+		},
+		{
 			"channel": "miacamhott",
 			"enabled": "false",
 			"quality" : "best"
 		},
 		{
 			"channel": "abie_owen",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
@@ -983,11 +988,6 @@
 			"channel": "super_paulina94",
 			"enabled": "false",
 			"quality" : "720p"
-		},
-		{
-			"channel": "click7here",
-			"enabled": "true",
-			"quality" : "best"
 		}
 	]
 }
