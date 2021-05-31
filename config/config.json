@@ -104,6 +104,11 @@
 			"enabled": "true",
 			"quality" : "best"
 		},
+		{ 
+			"channel": "tanya_welth",
+			"enabled": "true",
+			"quality" : "best"
+		},
 		{
 			"channel": "miacamhott",
 			"enabled": "false",
@@ -431,11 +436,6 @@
 		},
 		{ 
 			"channel": "k_kimikoo",
-			"enabled": "false",
-			"quality" : "720p"
-		},
-		{ 
-			"channel": "tanya_welth",
 			"enabled": "false",
 			"quality" : "720p"
 		},
