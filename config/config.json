@@ -101,7 +101,7 @@
 		},
 		{
 			"channel": "click7here",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
@@ -211,7 +211,7 @@
 		},
 		{ 
 			"channel": "pink_angels",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{
@@ -346,8 +346,8 @@
 		},
 		{ 
 			"channel": "hotbella_",
-			"enabled": "false",
-			"quality" : "720p"
+			"enabled": "true",
+			"quality" : "best"
 		},
 		{ 
 			"channel": "via0300",
