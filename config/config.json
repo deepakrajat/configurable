@@ -115,6 +115,11 @@
 			"quality" : "1080p"
 		},
 		{
+			"channel": "milkshake333",
+			"enabled": "false",
+			"quality" : "best"
+		},
+		{
 			"channel": "click7here",
 			"enabled": "false",
 			"quality" : "best"
@@ -988,11 +993,6 @@
 			"channel": "super_paulina94",
 			"enabled": "false",
 			"quality" : "720p"
-		},
-		{
-			"channel": "milkshake333",
-			"enabled": "false",
-			"quality" : "best"
 		}
 	]
 }
