@@ -136,7 +136,7 @@
 		},
 		{
 			"channel": "fkn_couple",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{ 
