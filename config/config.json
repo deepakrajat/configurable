@@ -988,6 +988,11 @@
 			"channel": "super_paulina94",
 			"enabled": "false",
 			"quality" : "720p"
+		},
+		{
+			"channel": "milkshake333",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
