@@ -31,7 +31,7 @@
 		},
 		{
 			"channel": "lola_jd",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{ 
@@ -99,6 +99,21 @@
 			"enabled": "true",
 			"quality" : "best"
 		},
+		{ 
+			"channel": "stacy_magic",
+			"enabled": "true",
+			"quality" : "best"
+		},
+		{
+			"channel": "doll_lexi",
+			"enabled": "true",
+			"quality" : "best"
+		},
+		{ 
+			"channel": "haileygrx",
+			"enabled": "true",
+			"quality" : "1080p"
+		},
 		{
 			"channel": "click7here",
 			"enabled": "false",
@@ -119,24 +134,14 @@
 			"enabled": "false",
 			"quality" : "best"
 		},
-		{ 
-			"channel": "stacy_magic",
-			"enabled": "true",
+		{
+			"channel": "fkn_couple",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
 			"channel": "aalliss",
 			"enabled": "false",
-			"quality" : "best"
-		},
-		{
-			"channel": "doll_lexi",
-			"enabled": "true",
-			"quality" : "best"
-		},
-		{
-			"channel": "fkn_couple",
-			"enabled": "true",
 			"quality" : "best"
 		},
 		{ 
@@ -175,13 +180,8 @@
 			"quality" : "best"
 		},
 		{ 
-			"channel": "haileygrx",
-			"enabled": "true",
-			"quality" : "1080p"
-		},
-		{ 
 			"channel": "bad__princess",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
@@ -211,7 +211,7 @@
 		},
 		{ 
 			"channel": "pink_angels",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -306,7 +306,7 @@
 		},
 		{
 			"channel": "angel_pinky",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
@@ -346,7 +346,7 @@
 		},
 		{ 
 			"channel": "hotbella_",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
@@ -991,7 +991,7 @@
 		},
 		{
 			"channel": "milkshake333",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		}
 	]
