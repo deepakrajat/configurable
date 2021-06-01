@@ -993,6 +993,11 @@
 			"channel": "super_paulina94",
 			"enabled": "false",
 			"quality" : "720p"
+		},
+		{
+			"channel": "kriss0leoo",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
