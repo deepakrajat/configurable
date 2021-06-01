@@ -135,6 +135,16 @@
 			"quality" : "best"
 		},
 		{
+			"channel": "abie_owen",
+			"enabled": "false",
+			"quality" : "best"
+		},
+		{ 
+			"channel": "angela_ride",
+			"enabled": "false",
+			"quality" : "best"
+		},
+		{
 			"channel": "dianaholiday",
 			"enabled": "false",
 			"quality" : "best"
@@ -154,18 +164,8 @@
 			"enabled": "false",
 			"quality" : "best"
 		},
-		{
-			"channel": "abie_owen",
-			"enabled": "false",
-			"quality" : "best"
-		},
 		{ 
 			"channel": "aalliss",
-			"enabled": "false",
-			"quality" : "best"
-		},
-		{ 
-			"channel": "angela_ride",
 			"enabled": "false",
 			"quality" : "best"
 		},
