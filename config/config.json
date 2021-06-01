@@ -786,8 +786,8 @@
 		},
 		{
 			"channel": "superstarxx",
-			"enabled": "false",
-			"quality" : "720p"
+			"enabled": "true",
+			"quality" : "best"
 		},
 		{
 			"channel": "delsee",
