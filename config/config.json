@@ -351,7 +351,7 @@
 		},
 		{ 
 			"channel": "hotbella_",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{ 
