@@ -251,7 +251,7 @@
 		},
 		{
 			"channel": "fallen_angel_18",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{ 
@@ -281,8 +281,8 @@
 		},
 		{
 			"channel": "kitty_ricky",
-			"enabled": "false",
-			"quality" : "720p"
+			"enabled": "true",
+			"quality" : "best"
 		},
 		{
 			"channel": "bootyful_dream",
