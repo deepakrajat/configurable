@@ -91,7 +91,7 @@
 		},
 		{
 			"channel": "dianaholiday",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
