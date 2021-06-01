@@ -130,6 +130,11 @@
 			"quality" : "best"
 		},
 		{
+			"channel": "fkn_couple",
+			"enabled": "true",
+			"quality" : "best"
+		},
+		{
 			"channel": "dianaholiday",
 			"enabled": "false",
 			"quality" : "best"
@@ -151,11 +156,6 @@
 		},
 		{
 			"channel": "abie_owen",
-			"enabled": "false",
-			"quality" : "best"
-		},
-		{
-			"channel": "fkn_couple",
 			"enabled": "false",
 			"quality" : "best"
 		},
