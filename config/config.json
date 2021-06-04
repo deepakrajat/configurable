@@ -421,8 +421,8 @@
 		},
 		{ 
 			"channel": "didiactive",
-			"enabled": "false",
-			"quality" : "720p"
+			"enabled": "true",
+			"quality" : "best"
 		},
 		{ 
 			"channel": "jaylynxxxx74",
