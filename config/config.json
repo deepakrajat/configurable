@@ -29,11 +29,6 @@
 			"enabled": "true",
 			"quality" : "best"
 		},
-		{
-			"channel": "lola_jd",
-			"enabled": "false",
-			"quality" : "best"
-		},
 		{ 
 			"channel": "mordoreva",
 			"enabled": "true",
@@ -52,11 +47,6 @@
 		{
 			"channel": "princess_sweety",
 			"enabled": "true",
-			"quality" : "best"
-		},
-		{
-			"channel": "sun_shine_baby",
-			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -94,20 +84,10 @@
 			"enabled": "true",
 			"quality" : "best"
 		},
-		{ 
-			"channel": "stacy_magic",
-			"enabled": "false",
-			"quality" : "best"
-		},
 		{
 			"channel": "doll_lexi",
 			"enabled": "true",
 			"quality" : "best"
-		},
-		{ 
-			"channel": "haileygrx",
-			"enabled": "false",
-			"quality" : "1080p"
 		},
 		{
 			"channel": "milkshake333",
@@ -120,13 +100,53 @@
 			"quality" : "best"
 		},
 		{
-			"channel": "fallen_angel_18",
+			"channel": "kitty_ricky",
+			"enabled": "true",
+			"quality" : "best"
+		},
+		{
+			"channel": "kriss0leoo",
+			"enabled": "true",
+			"quality" : "best"
+		},
+		{
+			"channel": "aloha_party",
+			"enabled": "true",
+			"quality" : "best"
+		},
+		{
+			"channel": "click7here",
+			"enabled": "true",
+			"quality" : "best"
+		},
+		{ 
+			"channel": "_myaa",
+			"enabled": "true",
+			"quality" : "best"
+		},
+		{
+			"channel": "lola_jd",
 			"enabled": "false",
 			"quality" : "best"
 		},
 		{
-			"channel": "kitty_ricky",
-			"enabled": "true",
+			"channel": "sun_shine_baby",
+			"enabled": "false",
+			"quality" : "best"
+		},
+		{ 
+			"channel": "stacy_magic",
+			"enabled": "false",
+			"quality" : "best"
+		},
+		{ 
+			"channel": "haileygrx",
+			"enabled": "false",
+			"quality" : "1080p"
+		},
+		{
+			"channel": "fallen_angel_18",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -147,11 +167,6 @@
 		{
 			"channel": "dianaholiday",
 			"enabled": "false",
-			"quality" : "best"
-		},
-		{
-			"channel": "click7here",
-			"enabled": "true",
 			"quality" : "best"
 		},
 		{ 
@@ -202,11 +217,6 @@
 		{ 
 			"channel": "bad__princess",
 			"enabled": "false",
-			"quality" : "best"
-		},
-		{ 
-			"channel": "_myaa",
-			"enabled": "true",
 			"quality" : "best"
 		},
 		{ 
@@ -993,16 +1003,6 @@
 			"channel": "super_paulina94",
 			"enabled": "false",
 			"quality" : "720p"
-		},
-		{
-			"channel": "kriss0leoo",
-			"enabled": "true",
-			"quality" : "best"
-		},
-		{
-			"channel": "aloha_party",
-			"enabled": "true",
-			"quality" : "best"
 		}
 	]
 }
