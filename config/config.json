@@ -96,7 +96,7 @@
 		},
 		{ 
 			"channel": "hotbella_",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
