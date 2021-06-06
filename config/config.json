@@ -998,6 +998,11 @@
 			"channel": "kriss0leoo",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "aloha_party",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
