@@ -131,7 +131,7 @@
 		},
 		{
 			"channel": "fkn_couple",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -171,7 +171,7 @@
 		},
 		{ 
 			"channel": "girl_of_yourdreams",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -201,12 +201,12 @@
 		},
 		{ 
 			"channel": "bad__princess",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
 			"channel": "_myaa",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{ 
