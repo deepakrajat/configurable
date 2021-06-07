@@ -231,7 +231,7 @@
 		},
 		{ 
 			"channel": "cyber_baby",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -566,7 +566,7 @@
 		},
 		{ 
 			"channel": "rockstarlife7",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
@@ -1003,6 +1003,11 @@
 			"channel": "super_paulina94",
 			"enabled": "false",
 			"quality" : "720p"
+		},
+		{
+			"channel": "nkkol",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
