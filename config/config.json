@@ -565,9 +565,9 @@
 			"quality" : "720p"
 		},
 		{ 
-			"channel": "andrea_duque97",
-			"enabled": "false",
-			"quality" : "720p"
+			"channel": "rockstarlife7",
+			"enabled": "true",
+			"quality" : "best"
 		},
 		{ 
 			"channel": "emilyortiz_",
