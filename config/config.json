@@ -96,7 +96,7 @@
 		},
 		{ 
 			"channel": "hotbella_",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -131,7 +131,7 @@
 		},
 		{
 			"channel": "nkkol",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
