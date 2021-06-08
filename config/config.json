@@ -119,6 +119,21 @@
 			"enabled": "true",
 			"quality" : "best"
 		},
+		{
+			"channel": "sun_shine_baby",
+			"enabled": "true",
+			"quality" : "best"
+		},
+		{ 
+			"channel": "haileygrx",
+			"enabled": "true",
+			"quality" : "1080p"
+		},
+		{
+			"channel": "nkkol",
+			"enabled": "true",
+			"quality" : "best"
+		},
 		{ 
 			"channel": "_myaa",
 			"enabled": "false",
@@ -129,20 +144,10 @@
 			"enabled": "false",
 			"quality" : "best"
 		},
-		{
-			"channel": "sun_shine_baby",
-			"enabled": "true",
-			"quality" : "best"
-		},
 		{ 
 			"channel": "stacy_magic",
 			"enabled": "false",
 			"quality" : "best"
-		},
-		{ 
-			"channel": "haileygrx",
-			"enabled": "true",
-			"quality" : "1080p"
 		},
 		{
 			"channel": "fallen_angel_18",
@@ -1003,11 +1008,6 @@
 			"channel": "super_paulina94",
 			"enabled": "false",
 			"quality" : "720p"
-		},
-		{
-			"channel": "nkkol",
-			"enabled": "true",
-			"quality" : "best"
 		}
 	]
 }
