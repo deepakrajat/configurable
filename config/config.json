@@ -16,7 +16,7 @@
 		},
 		{ 
 			"channel": "slemgem",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{ 
