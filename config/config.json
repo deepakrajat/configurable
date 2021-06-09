@@ -1008,6 +1008,11 @@
 			"channel": "super_paulina94",
 			"enabled": "false",
 			"quality" : "720p"
+		},
+		{
+			"channel": "krisi_kiss",
+			"enabled": "false",
+			"quality" : "best"
 		}
 	]
 }
