@@ -571,7 +571,7 @@
 		},
 		{ 
 			"channel": "rockstarlife7",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{ 
