@@ -186,7 +186,7 @@
 		},
 		{ 
 			"channel": "aalliss",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{ 
@@ -236,7 +236,7 @@
 		},
 		{ 
 			"channel": "cyber_baby",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{
@@ -311,7 +311,7 @@
 		},
 		{
 			"channel": "amazing_roxana",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
