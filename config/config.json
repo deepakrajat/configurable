@@ -226,7 +226,7 @@
 		},
 		{ 
 			"channel": "cristall_white",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{
@@ -371,8 +371,8 @@
 		},
 		{ 
 			"channel": "via0300",
-			"enabled": "false",
-			"quality" : "720p"
+			"enabled": "true",
+			"quality" : "best"
 		},
 		{ 
 			"channel": "fit___girl",
