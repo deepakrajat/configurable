@@ -136,7 +136,7 @@
 		},
 		{ 
 			"channel": "_myaa",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -151,7 +151,7 @@
 		},
 		{
 			"channel": "fallen_angel_18",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -1011,7 +1011,7 @@
 		},
 		{
 			"channel": "_ayya",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		}
 	]
