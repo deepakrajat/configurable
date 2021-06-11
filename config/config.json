@@ -216,7 +216,7 @@
 		},
 		{
 			"channel": "kronniekray",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
@@ -236,7 +236,7 @@
 		},
 		{ 
 			"channel": "cyber_baby",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -276,7 +276,7 @@
 		},
 		{ 
 			"channel": "tiffanyhouston_",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
@@ -371,7 +371,7 @@
 		},
 		{ 
 			"channel": "via0300",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
@@ -426,7 +426,7 @@
 		},
 		{ 
 			"channel": "helena_play",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
