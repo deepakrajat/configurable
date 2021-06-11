@@ -1010,8 +1010,8 @@
 			"quality" : "720p"
 		},
 		{
-			"channel": "krisi_kiss",
-			"enabled": "false",
+			"channel": "_ayya",
+			"enabled": "true",
 			"quality" : "best"
 		}
 	]
