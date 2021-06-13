@@ -221,7 +221,7 @@
 		},
 		{ 
 			"channel": "bad__princess",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{ 
