@@ -1018,6 +1018,11 @@
 			"channel": "lingerieshop",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "smurf19",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
