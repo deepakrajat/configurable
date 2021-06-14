@@ -116,17 +116,17 @@
 		},
 		{
 			"channel": "click7here",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
 			"channel": "sun_shine_baby",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
 			"channel": "haileygrx",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "1080p"
 		},
 		{
@@ -151,7 +151,7 @@
 		},
 		{
 			"channel": "fallen_angel_18",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -186,7 +186,7 @@
 		},
 		{ 
 			"channel": "aalliss",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
@@ -221,7 +221,7 @@
 		},
 		{ 
 			"channel": "bad__princess",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
@@ -571,7 +571,7 @@
 		},
 		{ 
 			"channel": "rockstarlife7",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
@@ -1021,7 +1021,7 @@
 		},
 		{
 			"channel": "smurf19",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
