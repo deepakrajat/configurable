@@ -216,7 +216,7 @@
 		},
 		{
 			"channel": "kronniekray",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
