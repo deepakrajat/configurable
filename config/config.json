@@ -1026,7 +1026,7 @@
 		},
 		{
 			"channel": "lisa_yun",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		}
 	]
