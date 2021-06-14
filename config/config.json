@@ -1013,6 +1013,11 @@
 			"channel": "_ayya",
 			"enabled": "false",
 			"quality" : "best"
+		},
+		{
+			"channel": "lingerieshop",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
