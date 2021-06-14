@@ -1023,6 +1023,11 @@
 			"channel": "smurf19",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "lisa_yun",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
