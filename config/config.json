@@ -1033,6 +1033,11 @@
 			"channel": "immature_babyy",
 			"enabled": "false",
 			"quality" : "best"
+		},
+		{
+			"channel": "lovely_aria",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
