@@ -866,7 +866,7 @@
 		},
 		{
 			"channel": "cute18cute",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{
@@ -1031,7 +1031,7 @@
 		},
 		{
 			"channel": "immature_babyy",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		}
 	]
