@@ -346,7 +346,7 @@
 		},
 		{ 
 			"channel": "anyeess",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{ 
