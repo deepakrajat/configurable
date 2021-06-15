@@ -1038,6 +1038,11 @@
 			"channel": "lovely_aria",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "seltin_sweety",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
