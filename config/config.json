@@ -1025,8 +1025,8 @@
 			"quality" : "best"
 		},
 		{
-			"channel": "lisa_yun",
-			"enabled": "false",
+			"channel": "krisi_kiss",
+			"enabled": "true",
 			"quality" : "best"
 		}
 	]
