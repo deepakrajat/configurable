@@ -1028,6 +1028,11 @@
 			"channel": "krisi_kiss",
 			"enabled": "false",
 			"quality" : "best"
+		},
+		{
+			"channel": "immature_babyy",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
