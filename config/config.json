@@ -1026,7 +1026,7 @@
 		},
 		{
 			"channel": "smurf19",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{
