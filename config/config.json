@@ -386,7 +386,7 @@
 		},
 		{ 
 			"channel": "via0300",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{ 
@@ -1046,7 +1046,7 @@
 		},
 		{
 			"channel": "_lillilly_",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		}
 	]
