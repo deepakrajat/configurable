@@ -80,11 +80,6 @@
 			"quality" : "best"
 		},
 		{
-			"channel": "patricia_bloom",
-			"enabled": "false",
-			"quality" : "best"
-		},
-		{
 			"channel": "doll_lexi",
 			"enabled": "true",
 			"quality" : "best"
@@ -92,11 +87,6 @@
 		{
 			"channel": "milkshake333",
 			"enabled": "true",
-			"quality" : "best"
-		},
-		{ 
-			"channel": "hotbella_",
-			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -110,16 +100,6 @@
 			"quality" : "best"
 		},
 		{
-			"channel": "aloha_party",
-			"enabled": "false",
-			"quality" : "best"
-		},
-		{
-			"channel": "click7here",
-			"enabled": "false",
-			"quality" : "best"
-		},
-		{
 			"channel": "sun_shine_baby",
 			"enabled": "true",
 			"quality" : "best"
@@ -128,6 +108,61 @@
 			"channel": "haileygrx",
 			"enabled": "true",
 			"quality" : "1080p"
+		},
+		{ 
+			"channel": "stacy_magic",
+			"enabled": "true",
+			"quality" : "best"
+		},
+		{ 
+			"channel": "girl_of_yourdreams",
+			"enabled": "true",
+			"quality" : "best"
+		},
+		{ 
+			"channel": "cristall_white",
+			"enabled": "true",
+			"quality" : "best"
+		},
+		{ 
+			"channel": "anyeess",
+			"enabled": "true",
+			"quality" : "best"
+		},
+		{
+			"channel": "cute18cute",
+			"enabled": "true",
+			"quality" : "best"
+		},
+		{
+			"channel": "lingerieshop",
+			"enabled": "true",
+			"quality" : "best"
+		},
+		{
+			"channel": "seltin_sweety",
+			"enabled": "true",
+			"quality" : "best"
+		},
+		{ 
+			"channel": "hotbella_",
+			"enabled": "false",
+			"quality" : "best"
+		},
+		{
+			"channel": "patricia_bloom",
+			"enabled": "false",
+			"quality" : "best"
+		},
+		{
+			"channel": "aloha_party",
+			"enabled": "false",
+			"quality" : "best"
+		},
+		{
+			"channel": "click7here",
+			"enabled": "false",
+			"quality" : "best"
 		},
 		{
 			"channel": "nkkol",
@@ -142,11 +177,6 @@
 		{
 			"channel": "lola_jd",
 			"enabled": "false",
-			"quality" : "best"
-		},
-		{ 
-			"channel": "stacy_magic",
-			"enabled": "true",
 			"quality" : "best"
 		},
 		{
@@ -189,11 +219,6 @@
 			"enabled": "false",
 			"quality" : "best"
 		},
-		{ 
-			"channel": "girl_of_yourdreams",
-			"enabled": "true",
-			"quality" : "best"
-		},
 		{
 			"channel": "20mellty",
 			"enabled": "false",
@@ -222,11 +247,6 @@
 		{ 
 			"channel": "bad__princess",
 			"enabled": "false",
-			"quality" : "best"
-		},
-		{ 
-			"channel": "cristall_white",
-			"enabled": "true",
 			"quality" : "best"
 		},
 		{
@@ -343,11 +363,6 @@
 			"channel": "iamjoyxs",
 			"enabled": "best",
 			"quality" : "720p"
-		},
-		{ 
-			"channel": "anyeess",
-			"enabled": "true",
-			"quality" : "best"
 		},
 		{ 
 			"channel": "bunny_room",
@@ -865,11 +880,6 @@
 			"quality" : "720p"
 		},
 		{
-			"channel": "cute18cute",
-			"enabled": "true",
-			"quality" : "best"
-		},
-		{
 			"channel": "lettali",
 			"enabled": "false",
 			"quality" : "720p"
@@ -1015,11 +1025,6 @@
 			"quality" : "best"
 		},
 		{
-			"channel": "lingerieshop",
-			"enabled": "true",
-			"quality" : "best"
-		},
-		{
 			"channel": "smurf19",
 			"enabled": "false",
 			"quality" : "best"
@@ -1037,11 +1042,6 @@
 		{
 			"channel": "lovely_aria",
 			"enabled": "false",
-			"quality" : "best"
-		},
-		{
-			"channel": "seltin_sweety",
-			"enabled": "true",
 			"quality" : "best"
 		}
 	]
