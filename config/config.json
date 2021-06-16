@@ -1035,13 +1035,13 @@
 			"quality" : "best"
 		},
 		{
-			"channel": "immature_babyy",
+			"channel": "lalalexa",
 			"enabled": "false",
 			"quality" : "best"
 		},
 		{
-			"channel": "lovely_aria",
-			"enabled": "false",
+			"channel": "evelinarose",
+			"enabled": "true",
 			"quality" : "best"
 		}
 	]
