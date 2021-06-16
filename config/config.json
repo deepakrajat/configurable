@@ -1048,6 +1048,11 @@
 			"channel": "_lillilly_",
 			"enabled": "false",
 			"quality" : "best"
+		},
+		{
+			"channel": "loonyko",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
