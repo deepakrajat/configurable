@@ -146,7 +146,7 @@
 		},
 		{ 
 			"channel": "stacy_magic",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{
