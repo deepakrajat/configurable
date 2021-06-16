@@ -1043,6 +1043,11 @@
 			"channel": "evelinarose",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "_lillilly_",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
