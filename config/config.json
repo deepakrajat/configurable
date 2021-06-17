@@ -1050,8 +1050,8 @@
 			"quality" : "best"
 		},
 		{
-			"channel": "loonyko",
-			"enabled": "false",
+			"channel": "freya_",
+			"enabled": "true",
 			"quality" : "best"
 		}
 	]
