@@ -71,12 +71,12 @@
 		},
 		{
 			"channel": "coupluxx",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
 			"channel": "yourlovelyfelicia",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -106,7 +106,7 @@
 		},
 		{ 
 			"channel": "haileygrx",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "1080p"
 		},
 		{ 
@@ -121,17 +121,17 @@
 		},
 		{ 
 			"channel": "cristall_white",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{ 
 			"channel": "anyeess",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
 			"channel": "cute18cute",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -141,7 +141,7 @@
 		},
 		{
 			"channel": "seltin_sweety",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
