@@ -216,7 +216,7 @@
 		},
 		{ 
 			"channel": "aalliss",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{
@@ -276,8 +276,8 @@
 		},
 		{ 
 			"channel": "stacimarierose",
-			"enabled": "false",
-			"quality" : "720p"
+			"enabled": "true",
+			"quality" : "best"
 		},
 		{
 			"channel": "blue_lag00n",
