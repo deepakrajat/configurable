@@ -1051,6 +1051,11 @@
 		},
 		{
 			"channel": "freya_",
+			"enabled": "false",
+			"quality" : "best"
+		},
+		{
+			"channel": "butterfly__effect",
 			"enabled": "true",
 			"quality" : "best"
 		}
