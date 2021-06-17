@@ -106,7 +106,7 @@
 		},
 		{ 
 			"channel": "haileygrx",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "1080p"
 		},
 		{ 
@@ -116,7 +116,7 @@
 		},
 		{ 
 			"channel": "girl_of_yourdreams",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
@@ -386,7 +386,7 @@
 		},
 		{ 
 			"channel": "via0300",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
@@ -1026,7 +1026,7 @@
 		},
 		{
 			"channel": "smurf19",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
