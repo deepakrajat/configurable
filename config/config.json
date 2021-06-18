@@ -101,7 +101,7 @@
 		},
 		{
 			"channel": "sun_shine_baby",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
@@ -111,7 +111,7 @@
 		},
 		{ 
 			"channel": "stacy_magic",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
@@ -276,7 +276,7 @@
 		},
 		{ 
 			"channel": "stacimarierose",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -331,7 +331,7 @@
 		},
 		{
 			"channel": "amazing_roxana",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
@@ -1041,7 +1041,7 @@
 		},
 		{
 			"channel": "evelinarose",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -1051,7 +1051,7 @@
 		},
 		{
 			"channel": "freya_",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
