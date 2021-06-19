@@ -351,7 +351,7 @@
 		},
 		{
 			"channel": "angel_pinky",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{ 
