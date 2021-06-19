@@ -411,8 +411,8 @@
 		},
 		{ 
 			"channel": "redcouchgirl",
-			"enabled": "false",
-			"quality" : "720p"
+			"enabled": "true",
+			"quality" : "best"
 		},
 		{ 
 			"channel": "kathy_baby",
