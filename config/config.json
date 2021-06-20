@@ -121,7 +121,7 @@
 		},
 		{ 
 			"channel": "cristall_white",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
