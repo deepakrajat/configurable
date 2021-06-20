@@ -1063,6 +1063,11 @@
 			"channel": "mywendy",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "curlylolly",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
