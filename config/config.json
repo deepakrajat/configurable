@@ -216,7 +216,7 @@
 		},
 		{ 
 			"channel": "aalliss",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{
@@ -1065,8 +1065,8 @@
 			"quality" : "best"
 		},
 		{
-			"channel": "curlylolly",
-			"enabled": "false",
+			"channel": "andreathomson",
+			"enabled": "true",
 			"quality" : "best"
 		}
 	]
