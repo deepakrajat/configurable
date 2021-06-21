@@ -1066,7 +1066,7 @@
 		},
 		{
 			"channel": "curlylolly",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		}
 	]
