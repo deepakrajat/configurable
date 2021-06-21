@@ -1061,7 +1061,7 @@
 		},
 		{
 			"channel": "mywendy",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
