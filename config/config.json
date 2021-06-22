@@ -441,8 +441,8 @@
 		},
 		{ 
 			"channel": "helena_play",
-			"enabled": "false",
-			"quality" : "1080"
+			"enabled": "true",
+			"quality" : "1080p"
 		},
 		{
 			"channel": "love_novel",
