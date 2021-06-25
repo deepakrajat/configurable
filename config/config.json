@@ -151,7 +151,7 @@
 		},
 		{
 			"channel": "patricia_bloom",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -206,7 +206,7 @@
 		},
 		{ 
 			"channel": "tanya_welth",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{
