@@ -586,7 +586,7 @@
 		},
 		{ 
 			"channel": "rockstarlife7",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
@@ -861,7 +861,7 @@
 		},
 		{
 			"channel": "diffgirls",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
