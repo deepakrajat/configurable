@@ -206,7 +206,7 @@
 		},
 		{ 
 			"channel": "tanya_welth",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
