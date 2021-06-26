@@ -416,8 +416,8 @@
 		},
 		{ 
 			"channel": "kathy_baby",
-			"enabled": "false",
-			"quality" : "720p"
+			"enabled": "true",
+			"quality" : "best"
 		},
 		{ 
 			"channel": "_timeless_paradox",
