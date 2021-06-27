@@ -96,7 +96,7 @@
 		},
 		{
 			"channel": "kriss0leoo",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -171,7 +171,7 @@
 		},
 		{ 
 			"channel": "_myaa",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -416,7 +416,7 @@
 		},
 		{ 
 			"channel": "kathy_baby",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
