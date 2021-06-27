@@ -106,7 +106,7 @@
 		},
 		{ 
 			"channel": "haileygrx",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "1080p"
 		},
 		{ 
@@ -1067,6 +1067,11 @@
 		{
 			"channel": "andreathomson",
 			"enabled": "false",
+			"quality" : "best"
+		},
+		{
+			"channel": "elibee",
+			"enabled": "true",
 			"quality" : "best"
 		}
 	]
