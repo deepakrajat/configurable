@@ -216,7 +216,7 @@
 		},
 		{ 
 			"channel": "aalliss",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
