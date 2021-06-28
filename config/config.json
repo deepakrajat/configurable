@@ -1073,6 +1073,11 @@
 			"channel": "elibee",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "miss_vavilova",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
