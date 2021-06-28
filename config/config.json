@@ -1078,6 +1078,11 @@
 			"channel": "miss_vavilova",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "alisaaleks",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
