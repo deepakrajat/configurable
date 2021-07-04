@@ -1076,7 +1076,7 @@
 		},
 		{
 			"channel": "miss_vavilova",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
