@@ -1051,7 +1051,7 @@
 		},
 		{
 			"channel": "freya_",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{
