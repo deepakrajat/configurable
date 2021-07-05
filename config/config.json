@@ -201,7 +201,7 @@
 		},
 		{
 			"channel": "nkkol",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{ 
