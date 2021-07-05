@@ -1083,6 +1083,11 @@
 			"channel": "alisaaleks",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "aleksajayne",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
