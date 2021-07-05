@@ -1093,6 +1093,11 @@
 			"channel": "miss_vavilova",
 			"enabled": "false",
 			"quality" : "best"
+		},
+		{
+			"channel": "margolori",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
