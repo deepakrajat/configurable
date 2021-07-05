@@ -441,7 +441,7 @@
 		},
 		{ 
 			"channel": "helena_play",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "1080p"
 		},
 		{
