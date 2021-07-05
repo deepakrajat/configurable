@@ -1076,7 +1076,7 @@
 		},
 		{
 			"channel": "butterfly__effect",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{
