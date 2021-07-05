@@ -1051,8 +1051,8 @@
 		},
 		{
 			"channel": "freya_",
-			"enabled": "true
-			"quality" : "1080p
+			"enabled": "true",
+			"quality" : "1080p"
 		},
 		{
 			"channel": "butterfly__effect",
