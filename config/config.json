@@ -961,8 +961,8 @@
 		},
 		{
 			"channel": "xxxx13xxxx",
-			"enabled": "false",
-			"quality" : "720p"
+			"enabled": "true",
+			"quality" : "best"
 		},
 		{
 			"channel": "greydesire69",
