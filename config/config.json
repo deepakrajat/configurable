@@ -236,7 +236,7 @@
 		},
 		{ 
 			"channel": "tanya_welth",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{
@@ -461,7 +461,7 @@
 		},
 		{ 
 			"channel": "helena_play",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "1080p"
 		},
 		{
