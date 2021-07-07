@@ -471,7 +471,7 @@
 		},
 		{ 
 			"channel": "didiactive",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
