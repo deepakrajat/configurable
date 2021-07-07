@@ -151,7 +151,7 @@
 		},
 		{ 
 			"channel": "haileygrx",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "1080p"
 		},
 		{ 
@@ -1071,7 +1071,7 @@
 		},
 		{
 			"channel": "freya_",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "1080p"
 		},
 		{
