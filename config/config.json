@@ -1098,6 +1098,11 @@
 			"channel": "margolori",
 			"enabled": "false",
 			"quality" : "best"
+		},
+		{
+			"channel": "jacky_smith",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
