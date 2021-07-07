@@ -1096,7 +1096,7 @@
 		},
 		{
 			"channel": "margolori",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		}
 	]
