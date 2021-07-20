@@ -1103,6 +1103,11 @@
 			"channel": "jacky_smith",
 			"enabled": "false",
 			"quality" : "best"
+		},
+		{
+			"channel": "nikkimagic",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
