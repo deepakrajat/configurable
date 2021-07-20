@@ -96,8 +96,8 @@
 		},
 		{
 			"channel": "lingerieshop",
-			"enabled": "false",
-			"quality" : "best"
+			"enabled": "true",
+			"quality" : "1080p"
 		},
 		{
 			"channel": "fkn_couple",
@@ -461,7 +461,7 @@
 		},
 		{ 
 			"channel": "helena_play",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "1080p"
 		},
 		{
