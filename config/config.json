@@ -1123,6 +1123,21 @@
 			"channel": "tixxxy",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "alexislove007",
+			"enabled": "true",
+			"quality" : "best"
+		},
+		{
+			"channel": "w0wgirls",
+			"enabled": "true",
+			"quality" : "best"
+		},
+		{
+			"channel": "vasillisa",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
