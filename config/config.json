@@ -1061,7 +1061,7 @@
 		},
 		{
 			"channel": "evelinarose",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{
