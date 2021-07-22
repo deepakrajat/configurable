@@ -1138,6 +1138,11 @@
 			"channel": "vasillisa",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "carmela_fox",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
