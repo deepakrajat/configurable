@@ -1143,6 +1143,11 @@
 			"channel": "carmela_fox",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "queenafina",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
