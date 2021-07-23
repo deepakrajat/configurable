@@ -1136,7 +1136,7 @@
 		},
 		{
 			"channel": "vasillisa",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
