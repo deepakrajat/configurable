@@ -1121,7 +1121,7 @@
 		},
 		{
 			"channel": "tixxxy",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{
@@ -1141,7 +1141,7 @@
 		},
 		{
 			"channel": "carmela_fox",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
