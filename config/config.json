@@ -146,7 +146,7 @@
 		},
 		{
 			"channel": "kriss0leoo",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
@@ -166,7 +166,7 @@
 		},
 		{ 
 			"channel": "anyeess",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
