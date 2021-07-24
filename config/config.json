@@ -1148,6 +1148,11 @@
 			"channel": "queenafina",
 			"enabled": "false",
 			"quality" : "best"
+		},
+		{
+			"channel": "mango_shake",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
