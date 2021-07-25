@@ -161,7 +161,7 @@
 		},
 		{ 
 			"channel": "girl_of_yourdreams",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
@@ -186,7 +186,7 @@
 		},
 		{
 			"channel": "patricia_bloom",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{
