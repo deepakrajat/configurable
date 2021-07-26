@@ -95,23 +95,38 @@
 			"quality" : "best"
 		},
 		{
+			"channel": "amazing_roxana",
+			"enabled": "true",
+			"quality" : "best"
+		},
+		{ 
+			"channel": "missflowersbloom",
+			"enabled": "true",
+			"quality" : "best"
+		},
+		{
+			"channel": "chloewildd",
+			"enabled": "true",
+			"quality" : "best"
+		},
+		{
+			"channel": "alexislove007",
+			"enabled": "true",
+			"quality" : "best"
+		},
+		{
 			"channel": "lingerieshop",
 			"enabled": "false",
 			"quality" : "1080p"
 		},
 		{
 			"channel": "fkn_couple",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
 			"channel": "angel_pinky",
 			"enabled": "false",
-			"quality" : "best"
-		},
-		{
-			"channel": "amazing_roxana",
-			"enabled": "true",
 			"quality" : "best"
 		},
 		{
@@ -151,7 +166,7 @@
 		},
 		{ 
 			"channel": "haileygrx",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "1080p"
 		},
 		{ 
@@ -358,11 +373,6 @@
 			"channel": "bootyful_dream",
 			"enabled": "false",
 			"quality" : "720p"
-		},
-		{ 
-			"channel": "missflowersbloom",
-			"enabled": "true",
-			"quality" : "best"
 		},
 		{
 			"channel": "liass_molly",
@@ -1110,11 +1120,6 @@
 			"quality" : "best"
 		},
 		{
-			"channel": "chloewildd",
-			"enabled": "true",
-			"quality" : "best"
-		},
-		{
 			"channel": "melanielexxx",
 			"enabled": "false",
 			"quality" : "best"
@@ -1122,11 +1127,6 @@
 		{
 			"channel": "tixxxy",
 			"enabled": "false",
-			"quality" : "best"
-		},
-		{
-			"channel": "alexislove007",
-			"enabled": "true",
 			"quality" : "best"
 		},
 		{
@@ -1156,7 +1156,7 @@
 		},
 		{
 			"channel": "malaydama",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		}
 	]
