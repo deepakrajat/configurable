@@ -1116,7 +1116,7 @@
 		},
 		{
 			"channel": "melanielexxx",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -1126,7 +1126,7 @@
 		},
 		{
 			"channel": "alexislove007",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -1151,6 +1151,11 @@
 		},
 		{
 			"channel": "mango_shake",
+			"enabled": "false",
+			"quality" : "best"
+		},
+		{
+			"channel": "malaydama",
 			"enabled": "false",
 			"quality" : "best"
 		}
