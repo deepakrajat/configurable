@@ -205,11 +205,6 @@
 			"quality" : "best"
 		},
 		{
-			"channel": "aloha_party",
-			"enabled": "false",
-			"quality" : "best"
-		},
-		{
 			"channel": "click7here",
 			"enabled": "false",
 			"quality" : "best"
