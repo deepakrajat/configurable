@@ -1183,6 +1183,11 @@
 			"channel": "aloha_party",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "_done_",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
