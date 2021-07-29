@@ -1168,6 +1168,11 @@
 			"channel": "jesikalooove",
 			"enabled": "false",
 			"quality" : "best"
+		},
+		{
+			"channel": "cute__foxy",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
