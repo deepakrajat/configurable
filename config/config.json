@@ -1173,6 +1173,11 @@
 			"channel": "cute__foxy",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "dealerslat",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
