@@ -1163,6 +1163,11 @@
 			"channel": "ideal_universe",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "jesikalooove",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
