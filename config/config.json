@@ -416,7 +416,7 @@
 		},
 		{ 
 			"channel": "via0300",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{ 
