@@ -611,7 +611,7 @@
 		},
 		{ 
 			"channel": "rockstarlife7",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
@@ -671,8 +671,8 @@
 		},
 		{ 
 			"channel": "notfallenangel",
-			"enabled": "false",
-			"quality" : "720p"
+			"enabled": "true",
+			"quality" : "best"
 		},
 		{ 
 			"channel": "elaanna",
