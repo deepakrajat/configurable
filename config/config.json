@@ -1176,7 +1176,7 @@
 		},
 		{
 			"channel": "aloha_party",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
