@@ -1166,12 +1166,12 @@
 		},
 		{
 			"channel": "cute__foxy",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
 			"channel": "dealerslat",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
