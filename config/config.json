@@ -441,7 +441,7 @@
 		},
 		{ 
 			"channel": "kathy_baby",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{ 
