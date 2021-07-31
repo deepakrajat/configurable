@@ -671,7 +671,7 @@
 		},
 		{ 
 			"channel": "notfallenangel",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
