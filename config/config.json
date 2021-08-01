@@ -1183,6 +1183,11 @@
 			"channel": "_done_",
 			"enabled": "false",
 			"quality" : "best"
+		},
+		{
+			"channel": "couple_chickens21",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
