@@ -1188,6 +1188,11 @@
 			"channel": "couple_chickens21",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "sexy_cony",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
