@@ -1071,7 +1071,7 @@
 		},
 		{
 			"channel": "crystalspencer",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{
