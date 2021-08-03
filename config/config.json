@@ -176,7 +176,7 @@
 		},
 		{ 
 			"channel": "girl_of_yourdreams",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
@@ -1071,7 +1071,7 @@
 		},
 		{
 			"channel": "crystalspencer",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
