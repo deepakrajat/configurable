@@ -1186,7 +1186,7 @@
 		},
 		{
 			"channel": "karah_mel",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
