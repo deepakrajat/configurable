@@ -756,8 +756,8 @@
 		},
 		{ 
 			"channel": "secretgoddess0",
-			"enabled": "false",
-			"quality" : "720p"
+			"enabled": "true",
+			"quality" : "best"
 		},
 		{ 
 			"channel": "so_sweet_poppy",
