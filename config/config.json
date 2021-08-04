@@ -286,7 +286,7 @@
 		},
 		{ 
 			"channel": "bad__princess",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{
@@ -336,7 +336,7 @@
 		},
 		{ 
 			"channel": "tiffanyhouston_",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
