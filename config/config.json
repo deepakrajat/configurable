@@ -116,8 +116,8 @@
 		},
 		{
 			"channel": "lingerieshop",
-			"enabled": "false",
-			"quality" : "1080p"
+			"enabled": "true",
+			"quality" : "best"
 		},
 		{
 			"channel": "fkn_couple",
