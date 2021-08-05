@@ -166,7 +166,7 @@
 		},
 		{ 
 			"channel": "haileygrx",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "1080p"
 		},
 		{ 
@@ -1146,7 +1146,7 @@
 		},
 		{
 			"channel": "mango_shake",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
