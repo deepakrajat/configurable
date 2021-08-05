@@ -1146,7 +1146,7 @@
 		},
 		{
 			"channel": "mango_shake",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{
