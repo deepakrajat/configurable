@@ -1198,6 +1198,11 @@
 			"channel": "lili_and_niki",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "_keti_",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
