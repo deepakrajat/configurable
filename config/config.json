@@ -1193,6 +1193,11 @@
 			"channel": "sexy_cony",
 			"enabled": "false",
 			"quality" : "best"
+		},
+		{
+			"channel": "lili_and_niki",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
