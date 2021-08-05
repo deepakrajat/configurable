@@ -256,7 +256,7 @@
 		},
 		{ 
 			"channel": "aalliss",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -336,7 +336,7 @@
 		},
 		{ 
 			"channel": "tiffanyhouston_",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
