@@ -91,7 +91,7 @@
 		},
 		{ 
 			"channel": "cristall_white",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -121,7 +121,7 @@
 		},
 		{
 			"channel": "fkn_couple",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -201,7 +201,7 @@
 		},
 		{
 			"channel": "patricia_bloom",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -261,7 +261,7 @@
 		},
 		{
 			"channel": "20mellty",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
@@ -336,7 +336,7 @@
 		},
 		{ 
 			"channel": "tiffanyhouston_",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
@@ -381,7 +381,7 @@
 		},
 		{ 
 			"channel": "veola_new",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
