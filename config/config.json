@@ -381,7 +381,7 @@
 		},
 		{ 
 			"channel": "veola_new",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{ 
