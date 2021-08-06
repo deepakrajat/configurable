@@ -1203,6 +1203,11 @@
 			"channel": "_keti_",
 			"enabled": "false",
 			"quality" : "best"
+		},
+		{
+			"channel": "masha_squirtle",
+			"enabled": "false",
+			"quality" : "best"
 		}
 	]
 }
