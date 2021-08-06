@@ -1201,7 +1201,7 @@
 		},
 		{
 			"channel": "_keti_",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		}
 	]
