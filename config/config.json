@@ -261,7 +261,7 @@
 		},
 		{
 			"channel": "20mellty",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{ 
