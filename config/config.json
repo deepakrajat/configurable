@@ -81,7 +81,7 @@
 		},
 		{
 			"channel": "kitty_ricky",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
