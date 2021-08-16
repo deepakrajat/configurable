@@ -288,6 +288,11 @@
 			"channel": "goldteachers",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "hotcryst",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
