@@ -285,8 +285,8 @@
 			"quality" : "best"
 		},
 		{
-			"channel": "littleflowers",
-			"enabled": "false",
+			"channel": "goldteachers",
+			"enabled": "true",
 			"quality" : "best"
 		}
 	]
