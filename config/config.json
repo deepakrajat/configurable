@@ -261,7 +261,7 @@
 		},
 		{
 			"channel": "freya_",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "1080p"
 		},
 		{
