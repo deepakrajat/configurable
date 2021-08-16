@@ -273,6 +273,11 @@
 			"channel": "mango_shake",
 			"enabled": "false",
 			"quality" : "best"
+		},
+		{
+			"channel": "cute_molly18",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
