@@ -278,6 +278,11 @@
 			"channel": "cute_molly18",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "amilia4u",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
