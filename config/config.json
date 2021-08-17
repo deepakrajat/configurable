@@ -293,6 +293,11 @@
 			"channel": "hotcryst",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "jesikalooove",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
