@@ -176,7 +176,7 @@
 		},
 		{
 			"channel": "patricia_bloom",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -291,6 +291,16 @@
 		},
 		{
 			"channel": "hotcryst",
+			"enabled": "true",
+			"quality" : "best"
+		},
+		{
+			"channel": "kittycaitlin",
+			"enabled": "true",
+			"quality" : "best"
+		},
+		{
+			"channel": "melissa_yo",
 			"enabled": "true",
 			"quality" : "best"
 		},
