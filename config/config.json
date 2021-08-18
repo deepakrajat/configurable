@@ -306,6 +306,11 @@
 		},
 		{
 			"channel": "jesikalooove",
+			"enabled": "true",
+			"quality" : "best"
+		},
+		{
+			"channel": "sensualldream",
 			"enabled": "false",
 			"quality" : "best"
 		}
