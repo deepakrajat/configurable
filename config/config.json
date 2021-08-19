@@ -256,7 +256,7 @@
 		},
 		{
 			"channel": "diffgirls",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{
