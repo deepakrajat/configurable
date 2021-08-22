@@ -182,7 +182,7 @@
 		{
 			"channel": "nkkol",
 			"enabled": "true",
-			"quality" : "best"
+			"quality" : "1080p"
 		},
 		{
 			"channel": "lola_jd",
@@ -256,12 +256,12 @@
 		},
 		{
 			"channel": "diffgirls",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
 			"channel": "freya_",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "1080p"
 		},
 		{
@@ -281,7 +281,7 @@
 		},
 		{
 			"channel": "amilia4u",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -312,6 +312,11 @@
 		{
 			"channel": "sensualldream",
 			"enabled": "false",
+			"quality" : "best"
+		},
+		{
+			"channel": "sonya_kelsey",
+			"enabled": "true",
 			"quality" : "best"
 		}
 	]
