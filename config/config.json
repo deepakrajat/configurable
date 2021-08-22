@@ -318,6 +318,11 @@
 			"channel": "sonya_kelsey",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "pink_angels",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
