@@ -323,6 +323,11 @@
 			"channel": "pink_angels",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "amycream",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
