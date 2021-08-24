@@ -328,6 +328,11 @@
 			"channel": "amycream",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "click7here",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
