@@ -156,7 +156,7 @@
 		},
 		{ 
 			"channel": "yourlovelyfelicia",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -316,7 +316,7 @@
 		},
 		{
 			"channel": "sonya_kelsey",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -331,7 +331,7 @@
 		},
 		{
 			"channel": "click7here",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		}
 	]
