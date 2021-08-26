@@ -333,6 +333,11 @@
 			"channel": "click7here",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "kalisa_pearl",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
