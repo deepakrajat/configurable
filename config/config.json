@@ -131,7 +131,7 @@
 		},
 		{ 
 			"channel": "cristall_white",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{
@@ -331,7 +331,7 @@
 		},
 		{
 			"channel": "click7here",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		}
 	]
