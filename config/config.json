@@ -353,6 +353,16 @@
 			"channel": "_galienneeezinna",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "sara_daisy",
+			"enabled": "true",
+			"quality" : "best"
+		},
+		{
+			"channel": "mermaidrozalia",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
