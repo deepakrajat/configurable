@@ -363,6 +363,11 @@
 			"channel": "mermaidrozalia",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "fitnesscouple7",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
