@@ -348,6 +348,11 @@
 			"channel": "amelie_bunny_real",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "_galienneeezinna",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
