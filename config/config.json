@@ -338,6 +338,11 @@
 			"channel": "kalisa_pearl",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "abie_owen",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
