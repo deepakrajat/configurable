@@ -336,7 +336,7 @@
 		},
 		{
 			"channel": "kalisa_pearl",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -345,23 +345,8 @@
 			"quality" : "best"
 		},
 		{
-			"channel": "amelie_bunny_real",
-			"enabled": "true",
-			"quality" : "best"
-		},
-		{
-			"channel": "_galienneeezinna",
-			"enabled": "true",
-			"quality" : "best"
-		},
-		{
 			"channel": "sara_daisy",
-			"enabled": "true",
-			"quality" : "best"
-		},
-		{
-			"channel": "mermaidrozalia",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
