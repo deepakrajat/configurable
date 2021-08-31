@@ -136,7 +136,7 @@
 		},
 		{
 			"channel": "kitty_ricky",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{
