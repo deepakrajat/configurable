@@ -141,7 +141,7 @@
 		},
 		{
 			"channel": "fkn_couple",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{
@@ -361,6 +361,11 @@
 		},
 		{
 			"channel": "meow_mia",
+			"enabled": "true",
+			"quality" : "best"
+		},
+		{
+			"channel": "anna_lus",
 			"enabled": "true",
 			"quality" : "best"
 		}
