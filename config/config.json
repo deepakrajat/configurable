@@ -358,6 +358,11 @@
 			"channel": "secretgoddess0",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "meow_mia",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
