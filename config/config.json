@@ -368,6 +368,11 @@
 			"channel": "anna_lus",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "littleflowers",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
