@@ -241,8 +241,8 @@
 		},
 		{
 			"channel": "miss_vavilova",
-			"enabled": "true",
-			"quality" : "1080p"
+			"enabled": "false",
+			"quality" : "best"
 		},
 		{
 			"channel": "mango_shake",
