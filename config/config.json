@@ -308,6 +308,11 @@
 			"channel": "olivia_deviline",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "seltin_sweety",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
