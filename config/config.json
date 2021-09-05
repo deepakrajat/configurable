@@ -313,6 +313,11 @@
 			"channel": "seltin_sweety",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "mynaughtynights",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
