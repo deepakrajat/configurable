@@ -316,12 +316,12 @@
 		},
 		{
 			"channel": "hefner_girl",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
 			"channel": "evalanis",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
