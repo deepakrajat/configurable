@@ -328,11 +328,6 @@
 			"channel": "moanamo",
 			"enabled": "true",
 			"quality" : "best"
-		},
-		{
-			"channel": "misssweettie",
-			"enabled": "true",
-			"quality" : "best"
 		}
 	]
 }
