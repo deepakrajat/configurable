@@ -313,6 +313,26 @@
 			"channel": "seltin_sweety",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "hefner_girl",
+			"enabled": "true",
+			"quality" : "best"
+		},
+		{
+			"channel": "evalanis",
+			"enabled": "true",
+			"quality" : "best"
+		},
+		{
+			"channel": "moanamo",
+			"enabled": "true",
+			"quality" : "best"
+		},
+		{
+			"channel": "misssweettie",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
