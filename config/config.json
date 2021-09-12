@@ -261,7 +261,7 @@
 		},
 		{
 			"channel": "diffgirls",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -281,7 +281,7 @@
 		},
 		{
 			"channel": "abie_owen",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -307,7 +307,7 @@
 		{
 			"channel": "olivia_deviline",
 			"enabled": "true",
-			"quality" : "best"
+			"quality" : "1080p"
 		},
 		{
 			"channel": "seltin_sweety",
@@ -321,7 +321,7 @@
 		},
 		{
 			"channel": "fallen_angel_18",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		}
 	]
