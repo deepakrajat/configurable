@@ -151,7 +151,7 @@
 		},
 		{ 
 			"channel": "akira_31",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
