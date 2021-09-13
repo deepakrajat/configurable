@@ -323,6 +323,11 @@
 			"channel": "aileen_williams",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "tiffanyhouston_",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
