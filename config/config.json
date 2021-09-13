@@ -141,7 +141,7 @@
 		},
 		{
 			"channel": "angel_pinky",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{
@@ -150,13 +150,8 @@
 			"quality" : "best"
 		},
 		{ 
-			"channel": "akira_31",
-			"enabled": "false",
-			"quality" : "best"
-		},
-		{
-			"channel": "erikabee",
-			"enabled": "false",
+			"channel": "20mellty",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{ 
