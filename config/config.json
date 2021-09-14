@@ -141,7 +141,7 @@
 		},
 		{
 			"channel": "angel_pinky",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -317,11 +317,6 @@
 		{
 			"channel": "fallen_angel_18",
 			"enabled": "false",
-			"quality" : "best"
-		},
-		{
-			"channel": "aileen_williams",
-			"enabled": "true",
 			"quality" : "best"
 		},
 		{
