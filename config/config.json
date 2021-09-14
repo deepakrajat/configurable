@@ -215,11 +215,6 @@
 			"quality" : "best"
 		},
 		{ 
-			"channel": "helena_play",
-			"enabled": "false",
-			"quality" : "1080p"
-		},
-		{ 
 			"channel": "didiactive",
 			"enabled": "false",
 			"quality" : "best"
@@ -231,7 +226,7 @@
 		},
 		{
 			"channel": "freya_",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "1080p"
 		},
 		{
@@ -255,22 +250,12 @@
 			"quality" : "best"
 		},
 		{
-			"channel": "diffgirls",
-			"enabled": "false",
-			"quality" : "best"
-		},
-		{
 			"channel": "jesikalooove",
 			"enabled": "true",
 			"quality" : "best"
 		},
 		{
 			"channel": "pink_angels",
-			"enabled": "false",
-			"quality" : "best"
-		},
-		{
-			"channel": "click7here",
 			"enabled": "false",
 			"quality" : "best"
 		},
@@ -291,7 +276,7 @@
 		},
 		{
 			"channel": "anna_lus",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
