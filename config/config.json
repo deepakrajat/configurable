@@ -318,6 +318,11 @@
 			"channel": "fruitcakebunny",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "hefner_girl",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
