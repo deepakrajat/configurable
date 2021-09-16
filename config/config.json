@@ -321,7 +321,7 @@
 		},
 		{
 			"channel": "hefner_girl",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		}
 	]
