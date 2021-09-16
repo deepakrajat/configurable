@@ -328,6 +328,11 @@
 			"channel": "brightrays__",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "intrigueeme",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
