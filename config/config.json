@@ -306,11 +306,16 @@
 		},
 		{
 			"channel": "tiffanyhouston_",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{
 			"channel": "wildsexalexandalexis",
+			"enabled": "true",
+			"quality" : "best"
+		},
+		{
+			"channel": "fruitcakebunny",
 			"enabled": "true",
 			"quality" : "best"
 		}
