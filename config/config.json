@@ -211,7 +211,7 @@
 		},
 		{ 
 			"channel": "via0300",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
@@ -306,12 +306,12 @@
 		},
 		{
 			"channel": "tiffanyhouston_",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
 			"channel": "wildsexalexandalexis",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -326,12 +326,12 @@
 		},
 		{
 			"channel": "brightrays__",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
 			"channel": "intrigueeme",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		}
 	]
