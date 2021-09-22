@@ -256,7 +256,7 @@
 		},
 		{
 			"channel": "pink_angels",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
