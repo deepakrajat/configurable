@@ -106,7 +106,7 @@
 		},
 		{ 
 			"channel": "haileygrx",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "1080p"
 		},
 		{ 
@@ -151,7 +151,7 @@
 		},
 		{ 
 			"channel": "20mellty",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
@@ -261,7 +261,7 @@
 		},
 		{
 			"channel": "abie_owen",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{
