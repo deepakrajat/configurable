@@ -333,6 +333,11 @@
 			"channel": "intrigueeme",
 			"enabled": "false",
 			"quality" : "best"
+		},
+		{
+			"channel": "jessynelson",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
