@@ -316,7 +316,7 @@
 		},
 		{
 			"channel": "kathy_baby",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -326,11 +326,16 @@
 		},
 		{
 			"channel": "intrigueeme",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{
 			"channel": "jessynelson",
+			"enabled": "true",
+			"quality" : "best"
+		},
+		{
+			"channel": "brightrays__",
 			"enabled": "true",
 			"quality" : "best"
 		}
