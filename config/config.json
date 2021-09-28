@@ -76,7 +76,7 @@
 		},
 		{
 			"channel": "milkshake333",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -91,7 +91,7 @@
 		},
 		{ 
 			"channel": "missflowersbloom",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -111,7 +111,7 @@
 		},
 		{ 
 			"channel": "stacy_magic",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
@@ -251,7 +251,7 @@
 		},
 		{
 			"channel": "pink_angels",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
