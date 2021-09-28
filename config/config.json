@@ -338,6 +338,11 @@
 			"channel": "brightrays__",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "nikkimagic",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
