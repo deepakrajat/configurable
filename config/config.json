@@ -343,6 +343,11 @@
 			"channel": "nikkimagic",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "swt_molly",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
