@@ -216,8 +216,8 @@
 		},
 		{ 
 			"channel": "me_emily",
-			"enabled": "false",
-			"quality" : "720p"
+			"enabled": "true",
+			"quality" : "best"
 		},
 		{
 			"channel": "freya_",
