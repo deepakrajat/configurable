@@ -373,6 +373,11 @@
 			"channel": "cathleenprecious",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "anyeess",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
