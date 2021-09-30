@@ -371,7 +371,7 @@
 		},
 		{
 			"channel": "cathleenprecious",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		}
 	]
