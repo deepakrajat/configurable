@@ -340,8 +340,8 @@
 			"quality" : "best"
 		},
 		{
-			"channel": "nikkimagic",
-			"enabled": "false",
+			"channel": "dinlex",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{
