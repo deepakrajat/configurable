@@ -363,6 +363,11 @@
 			"channel": "_meghan_gomez1_",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "erotist",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
