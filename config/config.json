@@ -368,6 +368,11 @@
 			"channel": "erotist",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "goldcarol1n3baby",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
