@@ -351,17 +351,17 @@
 		},
 		{
 			"channel": "tanya_welth",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
 			"channel": "ta__samaya_vi",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
 			"channel": "_meghan_gomez1_",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -371,6 +371,11 @@
 		},
 		{
 			"channel": "goldcarol1n3baby",
+			"enabled": "false",
+			"quality" : "best"
+		},
+		{
+			"channel": "brandiloveee",
 			"enabled": "true",
 			"quality" : "best"
 		}
