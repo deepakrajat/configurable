@@ -368,6 +368,11 @@
 			"channel": "butterfly__effect",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "cathleenprecious",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
