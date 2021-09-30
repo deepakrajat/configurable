@@ -161,7 +161,7 @@
 		},
 		{ 
 			"channel": "anyeess",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{
@@ -372,11 +372,6 @@
 		{
 			"channel": "cathleenprecious",
 			"enabled": "true",
-			"quality" : "best"
-		},
-		{
-			"channel": "anyeess",
-			"enabled": "false",
 			"quality" : "best"
 		}
 	]
