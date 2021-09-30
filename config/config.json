@@ -348,6 +348,11 @@
 			"channel": "swt_molly",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "tanya_welth",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
