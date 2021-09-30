@@ -353,6 +353,11 @@
 			"channel": "tanya_welth",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "ta__samaya_vi",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
