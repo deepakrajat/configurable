@@ -305,11 +305,6 @@
 			"quality" : "best"
 		},
 		{
-			"channel": "wildsexalexandalexis",
-			"enabled": "false",
-			"quality" : "best"
-		},
-		{
 			"channel": "cute18cute",
 			"enabled": "true",
 			"quality" : "best"
@@ -362,16 +357,6 @@
 		{
 			"channel": "brandiloveee",
 			"enabled": "true",
-			"quality" : "best"
-		},
-		{
-			"channel": "butterfly__effect",
-			"enabled": "false",
-			"quality" : "best"
-		},
-		{
-			"channel": "cathleenprecious",
-			"enabled": "false",
 			"quality" : "best"
 		}
 	]
