@@ -161,7 +161,7 @@
 		},
 		{ 
 			"channel": "anyeess",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -186,7 +186,7 @@
 		},
 		{ 
 			"channel": "aalliss",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
@@ -211,7 +211,7 @@
 		},
 		{ 
 			"channel": "didiactive",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{ 
@@ -221,7 +221,7 @@
 		},
 		{
 			"channel": "freya_",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "1080p"
 		},
 		{
@@ -291,7 +291,7 @@
 		},
 		{
 			"channel": "mynaughtynights",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{
@@ -326,7 +326,7 @@
 		},
 		{
 			"channel": "jessynelson",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{
