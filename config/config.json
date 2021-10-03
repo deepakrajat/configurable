@@ -358,6 +358,11 @@
 			"channel": "brandiloveee",
 			"enabled": "false",
 			"quality" : "best"
+		},
+		{
+			"channel": "cindybkk",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
