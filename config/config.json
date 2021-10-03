@@ -111,12 +111,12 @@
 		},
 		{ 
 			"channel": "stacy_magic",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
 			"channel": "_myaa",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -171,7 +171,7 @@
 		},
 		{
 			"channel": "nkkol",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "1080p"
 		},
 		{
@@ -221,7 +221,7 @@
 		},
 		{
 			"channel": "freya_",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "1080p"
 		},
 		{
@@ -331,7 +331,7 @@
 		},
 		{
 			"channel": "brightrays__",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
