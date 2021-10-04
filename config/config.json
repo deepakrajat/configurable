@@ -91,7 +91,7 @@
 		},
 		{ 
 			"channel": "missflowersbloom",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{
