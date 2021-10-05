@@ -368,6 +368,11 @@
 			"channel": "sophydiva",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "bunnyblondy",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
