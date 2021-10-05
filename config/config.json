@@ -363,6 +363,11 @@
 			"channel": "magicshine",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "sophydiva",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
