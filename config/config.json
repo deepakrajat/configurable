@@ -371,7 +371,7 @@
 		},
 		{
 			"channel": "bunnyblondy",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		}
 	]
