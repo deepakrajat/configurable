@@ -101,7 +101,7 @@
 		},
 		{
 			"channel": "lingerieshop",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "1080p"
 		},
 		{ 
@@ -292,7 +292,7 @@
 		{
 			"channel": "mynaughtynights",
 			"enabled": "true",
-			"quality" : "best"
+			"quality" : "1080p"
 		},
 		{
 			"channel": "seexxxy_couuple",
