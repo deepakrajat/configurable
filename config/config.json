@@ -106,8 +106,8 @@
 		},
 		{ 
 			"channel": "haileygrx",
-			"enabled": "false",
-			"quality" : "1080p"
+			"enabled": "true",
+			"quality" : "best"
 		},
 		{ 
 			"channel": "stacy_magic",
@@ -251,7 +251,7 @@
 		},
 		{
 			"channel": "pink_angels",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{
