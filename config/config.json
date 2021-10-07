@@ -341,7 +341,7 @@
 		},
 		{
 			"channel": "swt_molly",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{
