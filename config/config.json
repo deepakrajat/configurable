@@ -46,7 +46,7 @@
 		},
 		{
 			"channel": "princess_sweety",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -251,7 +251,7 @@
 		},
 		{
 			"channel": "pink_angels",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
