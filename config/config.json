@@ -320,27 +320,7 @@
 			"quality" : "best"
 		},
 		{
-			"channel": "intrigueeme",
-			"enabled": "false",
-			"quality" : "best"
-		},
-		{
 			"channel": "jessynelson",
-			"enabled": "false",
-			"quality" : "best"
-		},
-		{
-			"channel": "brightrays__",
-			"enabled": "false",
-			"quality" : "best"
-		},
-		{
-			"channel": "dinlex",
-			"enabled": "false",
-			"quality" : "best"
-		},
-		{
-			"channel": "swt_molly",
 			"enabled": "false",
 			"quality" : "best"
 		},
@@ -352,26 +332,6 @@
 		{
 			"channel": "ta__samaya_vi",
 			"enabled": "true",
-			"quality" : "best"
-		},
-		{
-			"channel": "brandiloveee",
-			"enabled": "false",
-			"quality" : "best"
-		},
-		{
-			"channel": "magicshine",
-			"enabled": "false",
-			"quality" : "best"
-		},
-		{
-			"channel": "nadin_star",
-			"enabled": "true",
-			"quality" : "best"
-		},
-		{
-			"channel": "hot_live_cum",
-			"enabled": "false",
 			"quality" : "best"
 		}
 	]
