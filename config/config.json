@@ -333,6 +333,11 @@
 			"channel": "ta__samaya_vi",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "simoncouple1",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
