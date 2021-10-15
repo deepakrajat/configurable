@@ -321,7 +321,7 @@
 		},
 		{
 			"channel": "intrigueeme",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
