@@ -358,6 +358,11 @@
 			"channel": "cute_siberian_girl",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "emilytrays",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
