@@ -341,7 +341,7 @@
 		},
 		{
 			"channel": "brightrays__",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		}
 	]
