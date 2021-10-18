@@ -343,6 +343,11 @@
 			"channel": "brightrays__",
 			"enabled": "false",
 			"quality" : "best"
+		},
+		{
+			"channel": "hlopushkahouse",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
