@@ -348,6 +348,11 @@
 			"channel": "hlopushkahouse",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "naughtystyle69",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
