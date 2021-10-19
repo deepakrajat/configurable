@@ -368,6 +368,11 @@
 			"channel": "amanda_clarke",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "stephany_luxe",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
