@@ -373,6 +373,11 @@
 			"channel": "stephany_luxe",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "hanna_model",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
