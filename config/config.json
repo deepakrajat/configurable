@@ -363,6 +363,11 @@
 			"channel": "emilytrays",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "amanda_clarke",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
