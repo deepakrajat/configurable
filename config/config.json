@@ -286,7 +286,7 @@
 		},
 		{
 			"channel": "ana__lingus",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "1080p"
 		},
 		{
