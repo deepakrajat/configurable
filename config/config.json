@@ -316,7 +316,7 @@
 		},
 		{
 			"channel": "emilytrays",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
