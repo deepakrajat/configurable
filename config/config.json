@@ -326,7 +326,7 @@
 		},
 		{
 			"channel": "hanna_model",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		}
 	]
