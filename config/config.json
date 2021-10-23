@@ -315,8 +315,8 @@
 			"quality" : "best"
 		},
 		{
-			"channel": "emilytrays",
-			"enabled": "false",
+			"channel": "succuba_",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{
