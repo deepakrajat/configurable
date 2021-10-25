@@ -316,7 +316,7 @@
 		},
 		{
 			"channel": "succuba_",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
