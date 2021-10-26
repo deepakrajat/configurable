@@ -328,6 +328,11 @@
 			"channel": "hanna_model",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "crystalspencer",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
