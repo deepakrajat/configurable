@@ -338,6 +338,11 @@
 			"channel": "_meghan_gomez1_",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "katrinpolly",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
