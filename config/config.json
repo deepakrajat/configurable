@@ -321,7 +321,7 @@
 		},
 		{
 			"channel": "sassyt33n",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -336,12 +336,12 @@
 		},
 		{
 			"channel": "_meghan_gomez1_",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
 			"channel": "katrinpolly",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		}
 	]
