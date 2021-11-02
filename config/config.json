@@ -308,6 +308,11 @@
 			"channel": "crystalspencer",
 			"enabled": "false",
 			"quality" : "best"
+		},
+		{
+			"channel": "click7here",
+			"enabled": "true",
+			"quality" : "best"
 		}
 	]
 }
