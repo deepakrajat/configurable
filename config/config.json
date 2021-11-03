@@ -311,7 +311,7 @@
 		},
 		{
 			"channel": "click7here",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		}
 	]
