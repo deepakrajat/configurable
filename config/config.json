@@ -46,7 +46,7 @@
 		},
 		{
 			"channel": "princess_sweety",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -76,7 +76,7 @@
 		},
 		{
 			"channel": "milkshake333",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -136,7 +136,7 @@
 		},
 		{
 			"channel": "fkn_couple",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -201,7 +201,7 @@
 		},
 		{
  			"channel": "3threesomelove3",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
@@ -266,7 +266,7 @@
 		},
 		{
 			"channel": "mynaughtynights",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "1080p"
 		},
 		{
