@@ -177,7 +177,7 @@
 		{
 			"channel": "lola_jd",
 			"enabled": "true",
-			"quality" : "1080p"
+			"quality" : "false"
 		},
 		{ 
 			"channel": "angela_ride",
