@@ -116,8 +116,8 @@
 		},
 		{ 
 			"channel": "_myaa",
-			"enabled": "false",
-			"quality" : "best"
+			"enabled": "true",
+			"quality" : "1080p"
 		},
 		{
 			"channel": "alexislove007",
@@ -311,12 +311,12 @@
 		},
 		{
 			"channel": "meganfox697",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
 			"channel": "swt_molly",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		}
 	]
