@@ -301,8 +301,8 @@
 		},
 		{
 			"channel": "hanna_model",
-			"enabled": "true",
-			"quality" : "best"
+			"enabled": "false",
+			"quality" : "1080p"
 		},
 		{
 			"channel": "crystalspencer",
