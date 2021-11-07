@@ -226,8 +226,8 @@
 		},
 		{
 			"channel": "pink_angels",
-			"enabled": "true",
-			"quality" : "best"
+			"enabled": "false",
+			"quality" : "1080p"
 		},
 		{
 			"channel": "abie_owen",
