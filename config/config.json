@@ -31,7 +31,7 @@
 		},
 		{ 
 			"channel": "mordoreva",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
@@ -51,7 +51,7 @@
 		},
 		{
 			"channel": "terryadorable",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
@@ -91,7 +91,7 @@
 		},
 		{ 
 			"channel": "missflowersbloom",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -116,13 +116,8 @@
 		},
 		{ 
 			"channel": "_myaa",
-			"enabled": "true",
-			"quality" : "1080p"
-		},
-		{
-			"channel": "alexislove007",
 			"enabled": "false",
-			"quality" : "best"
+			"quality" : "1080p"
 		},
 		{ 
 			"channel": "cristall_white",
@@ -141,26 +136,6 @@
 		},
 		{
 			"channel": "angel_pinky",
-			"enabled": "true",
-			"quality" : "best"
-		},
-		{
-			"channel": "alisaaleks",
-			"enabled": "false",
-			"quality" : "best"
-		},
-		{ 
-			"channel": "20mellty",
-			"enabled": "false",
-			"quality" : "best"
-		},
-		{ 
-			"channel": "girl_of_yourdreams",
-			"enabled": "false",
-			"quality" : "best"
-		},
-		{ 
-			"channel": "anyeess",
 			"enabled": "false",
 			"quality" : "best"
 		},
@@ -170,42 +145,12 @@
 			"quality" : "best"
 		},
 		{
-			"channel": "nkkol",
-			"enabled": "false",
-			"quality" : "1080p"
-		},
-		{
 			"channel": "lola_jd",
 			"enabled": "false",
 			"quality" : "1080p"
 		},
 		{ 
-			"channel": "angela_ride",
-			"enabled": "false",
-			"quality" : "best"
-		},
-		{ 
-			"channel": "aalliss",
-			"enabled": "false",
-			"quality" : "best"
-		},
-		{ 
 			"channel": "sweetboobss1",
-			"enabled": "false",
-			"quality" : "best"
-		},
-		{ 
-			"channel": "sexyru_couple",
-			"enabled": "false",
-			"quality" : "1080p"
-		},
-		{
- 			"channel": "3threesomelove3",
-			"enabled": "false",
-			"quality" : "best"
-		},
-		{ 
-			"channel": "me_emily",
 			"enabled": "false",
 			"quality" : "best"
 		},
@@ -256,7 +201,7 @@
 		},
 		{
 			"channel": "olivia_deviline",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "1080p"
 		},
 		{
@@ -295,11 +240,6 @@
 			"quality" : "best"
 		},
 		{
-			"channel": "cute_siberian_girl",
-			"enabled": "false",
-			"quality" : "best"
-		},
-		{
 			"channel": "hanna_model",
 			"enabled": "false",
 			"quality" : "1080p"
@@ -307,17 +247,7 @@
 		{
 			"channel": "crystalspencer",
 			"enabled": "true",
-			"quality" : "best"
-		},
-		{
-			"channel": "meganfox697",
-			"enabled": "false",
-			"quality" : "best"
-		},
-		{
-			"channel": "swt_molly",
-			"enabled": "false",
-			"quality" : "best"
+			"quality" : "1080p"
 		}
 	]
 }
