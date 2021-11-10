@@ -16,7 +16,7 @@
 		},
 		{ 
 			"channel": "slemgem",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{ 
@@ -231,7 +231,7 @@
 		},
 		{
 			"channel": "ta__samaya_vi",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{
