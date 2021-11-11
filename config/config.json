@@ -46,8 +46,8 @@
 		},
 		{
 			"channel": "princess_sweety",
-			"enabled": "false",
-			"quality" : "best"
+			"enabled": "true",
+			"quality" : "720p"
 		},
 		{
 			"channel": "terryadorable",
