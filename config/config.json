@@ -256,8 +256,8 @@
 		},
 		{
 			"channel": "angela_ride",
-			"enabled": "false",
-			"quality" : "1080p"
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
