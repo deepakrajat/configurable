@@ -136,8 +136,8 @@
 		},
 		{
 			"channel": "angel_pinky",
-			"enabled": "false",
-			"quality" : "best"
+			"enabled": "true",
+			"quality" : "720p"
 		},
 		{
 			"channel": "patricia_bloom",
