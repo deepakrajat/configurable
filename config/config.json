@@ -258,6 +258,11 @@
 			"channel": "angela_ride",
 			"enabled": "true",
 			"quality" : "720p"
+		},
+		{
+			"channel": "rockstarlife7",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
