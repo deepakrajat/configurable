@@ -253,6 +253,11 @@
 			"channel": "_jenniferr_",
 			"enabled": "true",
 			"quality" : "720p"
+		},
+		{
+			"channel": "angela_ride",
+			"enabled": "true",
+			"quality" : "1080p"
 		}
 	]
 }
