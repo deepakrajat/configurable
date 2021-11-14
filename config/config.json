@@ -146,7 +146,7 @@
 		},
 		{
 			"channel": "lola_jd",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
