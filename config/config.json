@@ -241,8 +241,8 @@
 		},
 		{
 			"channel": "hanna_model",
-			"enabled": "true",
-			"quality" : "1080p"
+			"enabled": "false",
+			"quality" : "720p",
 		},
 		{
 			"channel": "crystalspencer",
@@ -251,7 +251,7 @@
 		},
 		{
 			"channel": "_jenniferr_",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
