@@ -242,7 +242,7 @@
 		{
 			"channel": "hanna_model",
 			"enabled": "false",
-			"quality" : "720p",
+			"quality" : "720p"
 		},
 		{
 			"channel": "crystalspencer",
