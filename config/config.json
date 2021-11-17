@@ -81,7 +81,7 @@
 		},
 		{
 			"channel": "sun_shine_baby",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
@@ -221,7 +221,7 @@
 		},
 		{
 			"channel": "jessynelson",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -271,7 +271,7 @@
 		},
 		{
 			"channel": "tanya_welth",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		}
 	]
