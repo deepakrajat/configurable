@@ -273,6 +273,11 @@
 			"channel": "tanya_welth",
 			"enabled": "false",
 			"quality" : "720p"
+		}, 
+		{
+			"channel": "tiffanyhouston_",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
