@@ -71,7 +71,7 @@
 		},
 		{
 			"channel": "doll_lexi",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -126,7 +126,7 @@
 		},
 		{
 			"channel": "kitty_ricky",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
