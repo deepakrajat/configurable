@@ -106,8 +106,8 @@
 		},
 		{ 
 			"channel": "haileygrx",
-			"enabled": "false",
-			"quality" : "1080p"
+			"enabled": "true",
+			"quality" : "720p"
 		},
 		{ 
 			"channel": "stacy_magic",
