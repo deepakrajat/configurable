@@ -278,6 +278,11 @@
 			"channel": "tiffanyhouston_",
 			"enabled": "false",
 			"quality" : "720p"
+		}, 
+		{
+			"channel": "girl_of_yourdreams",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
