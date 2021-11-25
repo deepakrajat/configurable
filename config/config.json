@@ -131,8 +131,8 @@
 		},
 		{
 			"channel": "fkn_couple",
-			"enabled": "false",
-			"quality" : "best"
+			"enabled": "true",
+			"quality" : "720p"
 		},
 		{
 			"channel": "angel_pinky",
