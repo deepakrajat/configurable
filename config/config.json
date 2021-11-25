@@ -283,6 +283,11 @@
 			"channel": "girl_of_yourdreams",
 			"enabled": "true",
 			"quality" : "720p"
+		}, 
+		{
+			"channel": "alexislove007",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
