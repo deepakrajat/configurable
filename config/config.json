@@ -246,7 +246,7 @@
 		},
 		{
 			"channel": "crystalspencer",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
@@ -286,6 +286,16 @@
 		}, 
 		{
 			"channel": "alexislove007",
+			"enabled": "true",
+			"quality" : "720p"
+		}, 
+		{
+			"channel": "me_emily",
+			"enabled": "true",
+			"quality" : "720p"
+		}, 
+		{
+			"channel": "dariaa_doll",
 			"enabled": "true",
 			"quality" : "720p"
 		}
