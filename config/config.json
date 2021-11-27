@@ -266,12 +266,12 @@
 		},
 		{
 			"channel": "anyeess",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
 			"channel": "tanya_welth",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		}, 
 		{
@@ -286,7 +286,7 @@
 		}, 
 		{
 			"channel": "alexislove007",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		}, 
 		{
@@ -296,7 +296,7 @@
 		}, 
 		{
 			"channel": "dariaa_doll",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		}
 	]
