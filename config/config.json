@@ -291,12 +291,17 @@
 		}, 
 		{
 			"channel": "me_emily",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		}, 
 		{
 			"channel": "dariaa_doll",
 			"enabled": "false",
+			"quality" : "720p"
+		}, 
+		{
+			"channel": "brilliantvictoria",
+			"enabled": "true",
 			"quality" : "720p"
 		}
 	]
