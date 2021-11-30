@@ -313,6 +313,11 @@
 			"channel": "diffgirls",
 			"enabled": "true",
 			"quality" : "720p"
+		}, 
+		{
+			"channel": "an_iv",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
