@@ -303,6 +303,11 @@
 			"channel": "brilliantvictoria",
 			"enabled": "true",
 			"quality" : "720p"
+		}, 
+		{
+			"channel": "_avrora_",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
