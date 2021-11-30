@@ -308,6 +308,11 @@
 			"channel": "_avrora_",
 			"enabled": "true",
 			"quality" : "720p"
+		}, 
+		{
+			"channel": "diffgirls",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
