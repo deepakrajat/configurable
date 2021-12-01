@@ -318,6 +318,11 @@
 			"channel": "an_iv",
 			"enabled": "true",
 			"quality" : "720p"
+		}, 
+		{
+			"channel": "fallen_angel_18",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
