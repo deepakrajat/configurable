@@ -196,7 +196,7 @@
 		},
 		{
 			"channel": "littleflowers",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{
