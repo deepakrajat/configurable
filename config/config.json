@@ -316,7 +316,7 @@
 		}, 
 		{
 			"channel": "an_iv",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		}, 
 		{
