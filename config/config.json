@@ -323,6 +323,11 @@
 			"channel": "fallen_angel_18",
 			"enabled": "true",
 			"quality" : "720p"
+		}, 
+		{
+			"channel": "strawberryjamx",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
