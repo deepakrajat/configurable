@@ -126,7 +126,7 @@
 		},
 		{
 			"channel": "kitty_ricky",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{
