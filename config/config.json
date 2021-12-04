@@ -241,7 +241,7 @@
 		},
 		{
 			"channel": "hanna_model",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{
