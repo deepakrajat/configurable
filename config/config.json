@@ -271,7 +271,7 @@
 		},
 		{
 			"channel": "tanya_welth",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		}, 
 		{
@@ -316,7 +316,7 @@
 		}, 
 		{
 			"channel": "an_iv",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		}, 
 		{
