@@ -315,8 +315,8 @@
 			"quality" : "720p"
 		}, 
 		{
-			"channel": "an_iv",
-			"enabled": "false",
+			"channel": "helena_play",
+			"enabled": "true",
 			"quality" : "720p"
 		}, 
 		{
