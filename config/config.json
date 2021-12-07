@@ -333,6 +333,11 @@
 			"channel": "emilia98xxx",
 			"enabled": "true",
 			"quality" : "720p"
+		}, 
+		{
+			"channel": "strawberryjamx",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
