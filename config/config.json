@@ -216,8 +216,8 @@
 		},
 		{
 			"channel": "cute18cute",
-			"enabled": "true",
-			"quality" : "best"
+			"enabled": "false",
+			"quality" : "720p"
 		},
 		{
 			"channel": "jessynelson",
