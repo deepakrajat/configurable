@@ -316,7 +316,7 @@
 		}, 
 		{
 			"channel": "helena_play",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		}, 
 		{
@@ -336,7 +336,7 @@
 		}, 
 		{
 			"channel": "strawberryjamx",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		}
 	]
