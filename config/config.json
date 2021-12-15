@@ -71,8 +71,8 @@
 		},
 		{
 			"channel": "doll_lexi",
-			"enabled": "false",
-			"quality" : "best"
+			"enabled": "true",
+			"quality" : "720p"
 		},
 		{
 			"channel": "milkshake333",
