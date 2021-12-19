@@ -41,8 +41,8 @@
 		},
 		{ 
 			"channel": "casey_ann",
-			"enabled": "true",
-			"quality" : "best"
+			"enabled": "false",
+			"quality" : "720p"
 		},
 		{
 			"channel": "princess_sweety",
