@@ -338,7 +338,13 @@
 			"channel": "sexyru_couple",
 			"enabled": "false",
 			"quality" : "720p"
+		}, 
+		{
+			"channel": "procrastination_",
+			"enabled": "true",
+			"quality" : "720p"
 		}
+		
 	]
 }
 
