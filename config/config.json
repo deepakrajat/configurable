@@ -343,6 +343,11 @@
 			"channel": "procrastination_",
 			"enabled": "true",
 			"quality" : "720p"
+		}, 
+		{
+			"channel": "elibee",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 		
 	]
