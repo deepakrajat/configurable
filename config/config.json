@@ -116,7 +116,7 @@
 		},
 		{ 
 			"channel": "_myaa",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
