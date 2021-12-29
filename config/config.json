@@ -348,6 +348,11 @@
 			"channel": "elibee",
 			"enabled": "true",
 			"quality" : "720p"
+		}, 
+		{
+			"channel": "bae_suz",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 		
 	]
