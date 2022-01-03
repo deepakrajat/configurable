@@ -363,6 +363,11 @@
 			"channel": "dovia",
 			"enabled": "true",
 			"quality" : "720p"
+		}, 
+		{
+			"channel": "ella__sweety",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 		
 	]
