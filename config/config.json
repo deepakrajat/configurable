@@ -226,8 +226,8 @@
 		},
 		{
 			"channel": "ana__lingus",
-			"enabled": "false",
-			"quality" : "1080p"
+			"enabled": "true",
+			"quality" : "720p"
 		},
 		{
 			"channel": "ta__samaya_vi",
