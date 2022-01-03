@@ -368,8 +368,12 @@
 			"channel": "moodsexthree",
 			"enabled": "true",
 			"quality" : "720p"
-		}
-		
+		}, 
+		{
+			"channel": "porn_hub__",
+			"enabled": "true",
+			"quality" : "720p"
+		} 
 	]
 }
 
