@@ -358,6 +358,11 @@
 			"channel": "ady_w_o_w",
 			"enabled": "true",
 			"quality" : "720p"
+		}, 
+		{
+			"channel": "dovia",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 		
 	]
