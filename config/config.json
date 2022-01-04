@@ -373,7 +373,22 @@
 			"channel": "porn_hub__",
 			"enabled": "true",
 			"quality" : "720p"
-		} 
+		}, 
+		{
+			"channel": "popy_star",
+			"enabled": "true",
+			"quality" : "720p"
+		}, 
+		{
+			"channel": "honey_pinkgreen",
+			"enabled": "true",
+			"quality" : "720p"
+		}, 
+		{
+			"channel": "indiansweety",
+			"enabled": "true",
+			"quality" : "720p"
+		}
 	]
 }
 
