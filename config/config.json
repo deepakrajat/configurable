@@ -388,6 +388,11 @@
 			"channel": "indiansweety",
 			"enabled": "true",
 			"quality" : "720p"
+		} , 
+		{
+			"channel": "bunnylia",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
