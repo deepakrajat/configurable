@@ -206,7 +206,7 @@
 		},
 		{
 			"channel": "seltin_sweety",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
@@ -388,9 +388,14 @@
 			"channel": "indiansweety",
 			"enabled": "true",
 			"quality" : "720p"
-		} , 
+		}, 
 		{
 			"channel": "bunnylia",
+			"enabled": "true",
+			"quality" : "720p"
+		}, 
+		{
+			"channel": "_milkyway",
 			"enabled": "true",
 			"quality" : "720p"
 		}
