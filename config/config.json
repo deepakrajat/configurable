@@ -398,6 +398,11 @@
 			"channel": "_milkyway",
 			"enabled": "true",
 			"quality" : "720p"
+		}, 
+		{
+			"channel": "seexxxy_couuple",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
