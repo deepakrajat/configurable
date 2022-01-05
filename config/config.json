@@ -376,7 +376,7 @@
 		}, 
 		{
 			"channel": "popy_star",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		}, 
 		{
@@ -401,6 +401,11 @@
 		}, 
 		{
 			"channel": "seexxxy_couuple",
+			"enabled": "true",
+			"quality" : "720p"
+		}, 
+		{
+			"channel": "michaelaisizzu",
 			"enabled": "true",
 			"quality" : "720p"
 		}
