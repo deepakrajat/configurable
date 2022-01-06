@@ -167,7 +167,7 @@
 		{
 			"channel": "jesikalooove",
 			"enabled": "true",
-			"quality" : "best"
+			"quality" : "720p"
 		},
 		{
 			"channel": "pink_angels",
@@ -356,7 +356,7 @@
 		}, 
 		{
 			"channel": "ady_w_o_w",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		}, 
 		{
@@ -391,7 +391,7 @@
 		}, 
 		{
 			"channel": "bunnylia",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		}, 
 		{
@@ -406,7 +406,7 @@
 		}, 
 		{
 			"channel": "michaelaisizzu",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		}
 	]
