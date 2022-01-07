@@ -241,7 +241,7 @@
 		},
 		{
 			"channel": "hanna_model",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{
@@ -405,8 +405,8 @@
 			"quality" : "720p"
 		}, 
 		{
-			"channel": "michaelaisizzu",
-			"enabled": "false",
+			"channel": "foxhilary",
+			"enabled": "true",
 			"quality" : "720p"
 		}, 
 		{
