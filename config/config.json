@@ -326,7 +326,7 @@
 		}, 
 		{
 			"channel": "mia_mils",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		}, 
 		{
