@@ -12,7 +12,7 @@
 		{ 
 			"channel": "stripmango",
 			"enabled": "true",
-			"quality" : "best"
+			"quality" : "720p"
 		},
 		{ 
 			"channel": "slemgem",
@@ -66,8 +66,8 @@
 		},
 		{ 
 			"channel": "oh_julie",
-			"enabled": "false",
-			"quality" : "best"
+			"enabled": "true",
+			"quality" : "720p"
 		},
 		{
 			"channel": "doll_lexi",
@@ -77,7 +77,7 @@
 		{
 			"channel": "milkshake333",
 			"enabled": "false",
-			"quality" : "best"
+			"quality" : "720p"
 		},
 		{
 			"channel": "sun_shine_baby",
