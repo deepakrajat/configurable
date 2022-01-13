@@ -283,6 +283,11 @@
 			"channel": "_mito_69",
 			"enabled": "true",
 			"quality" : "720p"
+		}, 
+		{
+			"channel": "procrastination_",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
