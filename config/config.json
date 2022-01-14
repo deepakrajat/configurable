@@ -71,7 +71,7 @@
 		},
 		{
 			"channel": "doll_lexi",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
@@ -286,7 +286,7 @@
 		}, 
 		{
 			"channel": "procrastination_",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		}, 
 		{
