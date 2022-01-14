@@ -126,7 +126,7 @@
 		},
 		{
 			"channel": "kitty_ricky",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
@@ -286,6 +286,11 @@
 		}, 
 		{
 			"channel": "procrastination_",
+			"enabled": "true",
+			"quality" : "720p"
+		}, 
+		{
+			"channel": "milena_manin",
 			"enabled": "true",
 			"quality" : "720p"
 		}
