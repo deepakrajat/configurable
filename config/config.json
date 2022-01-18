@@ -293,6 +293,11 @@
 			"channel": "milena_manin",
 			"enabled": "true",
 			"quality" : "720p"
+		}, 
+		{
+			"channel": "amanda_clarke",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
