@@ -285,13 +285,13 @@
 			"quality" : "720p"
 		}, 
 		{
-			"channel": "procrastination_",
-			"enabled": "false",
+			"channel": "brilliantvictoria",
+			"enabled": "true",
 			"quality" : "720p"
 		}, 
 		{
 			"channel": "milena_manin",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		}, 
 		{
