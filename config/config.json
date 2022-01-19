@@ -298,6 +298,11 @@
 			"channel": "amanda_clarke",
 			"enabled": "true",
 			"quality" : "720p"
+		}, 
+		{
+			"channel": "aileen_williams",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
