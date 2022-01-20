@@ -46,7 +46,7 @@
 		},
 		{
 			"channel": "princess_sweety",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
@@ -306,7 +306,7 @@
 		},
 		{
 			"channel": "super_peach",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		}
 	]
