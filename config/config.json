@@ -308,6 +308,11 @@
 			"channel": "super_peach",
 			"enabled": "false",
 			"quality" : "720p"
+		},
+		{
+			"channel": "moniqueeass",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
