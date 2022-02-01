@@ -318,6 +318,11 @@
 			"channel": "diffgirls",
 			"enabled": "true",
 			"quality" : "720p"
+		},
+		{
+			"channel": "yours_anastasia",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
