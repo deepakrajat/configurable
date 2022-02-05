@@ -325,8 +325,8 @@
 			"quality" : "720p"
 		},
 		{
-			"channel": "lunaandboris",
-			"enabled": "false",
+			"channel": "ideal_universe",
+			"enabled": "true",
 			"quality" : "720p"
 		}
 	]
