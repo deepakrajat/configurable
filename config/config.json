@@ -26,8 +26,8 @@
 		},
 		{
 			"channel": "drug_girl",
-			"enabled": "true",
-			"quality" : "best"
+			"enabled": "false",
+			"quality" : "1080p"
 		},
 		{ 
 			"channel": "diamond_sydney",
@@ -36,8 +36,8 @@
 		},
 		{ 
 			"channel": "roxy_blue_eyed_",
-			"enabled": "false",
-			"quality" : "1080p"
+			"enabled": "true",
+			"quality" : "best"
 		},
 		{ 
 			"channel": "casey_ann",
