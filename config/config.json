@@ -36,8 +36,8 @@
 		},
 		{ 
 			"channel": "roxy_blue_eyed_",
-			"enabled": "true",
-			"quality" : "best"
+			"enabled": "false",
+			"quality" : "1080p"
 		},
 		{ 
 			"channel": "casey_ann",
