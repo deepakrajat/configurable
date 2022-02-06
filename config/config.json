@@ -320,8 +320,8 @@
 			"quality" : "720p"
 		},
 		{
-			"channel": "yours_anastasia",
-			"enabled": "false",
+			"channel": "_timeless_paradox",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{
