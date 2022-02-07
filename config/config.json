@@ -173,6 +173,11 @@
 			"channel": "lola_jd",
 			"enabled": "true",
 			"quality" : "720p"
+		},
+		{
+			"channel": "_myaa",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
