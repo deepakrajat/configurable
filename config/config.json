@@ -168,6 +168,11 @@
 			"channel": "ideal_universe",
 			"enabled": "true",
 			"quality" : "720p"
+		},
+		{
+			"channel": "lola_jd",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
