@@ -178,6 +178,11 @@
 			"channel": "_myaa",
 			"enabled": "true",
 			"quality" : "720p"
+		},
+		{
+			"channel": "cute00kiara",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
