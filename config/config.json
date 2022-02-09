@@ -188,6 +188,11 @@
 			"channel": "h_o_t_w_i_f_e",
 			"enabled": "true",
 			"quality" : "720p"
+		},
+		{
+			"channel": "e_______",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
