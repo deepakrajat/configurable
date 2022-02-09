@@ -26,8 +26,8 @@
 		},
 		{
 			"channel": "drug_girl",
-			"enabled": "true",
-			"quality" : "1080p"
+			"enabled": "false",
+			"quality" : "720p"
 		},
 		{ 
 			"channel": "diamond_sydney",
