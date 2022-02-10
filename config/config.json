@@ -203,6 +203,11 @@
 			"channel": "me_emily",
 			"enabled": "true",
 			"quality" : "720p"
+		},
+		{
+			"channel": "_mito_69",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
