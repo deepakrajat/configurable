@@ -193,6 +193,11 @@
 			"channel": "e_______",
 			"enabled": "true",
 			"quality" : "720p"
+		},
+		{
+			"channel": "_feli_",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
