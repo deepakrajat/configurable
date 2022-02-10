@@ -198,6 +198,11 @@
 			"channel": "_feli_",
 			"enabled": "true",
 			"quality" : "720p"
+		},
+		{
+			"channel": "me_emily",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
