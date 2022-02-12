@@ -166,7 +166,7 @@
 		},
 		{
 			"channel": "ideal_universe",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
