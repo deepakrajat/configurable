@@ -76,7 +76,7 @@
 		},
 		{
 			"channel": "webcamrecording",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
