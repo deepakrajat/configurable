@@ -208,6 +208,11 @@
 			"channel": "greeniccee",
 			"enabled": "true",
 			"quality" : "720p"
+		},
+		{
+			"channel": "anyeess",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
