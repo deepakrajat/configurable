@@ -201,7 +201,7 @@
 		},
 		{
 			"channel": "me_emily",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
@@ -211,7 +211,7 @@
 		},
 		{
 			"channel": "anyeess",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		}
 	]
