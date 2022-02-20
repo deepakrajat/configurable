@@ -56,7 +56,7 @@
 		},
 		{ 
 			"channel": "oh_julie",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
