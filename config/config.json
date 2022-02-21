@@ -213,6 +213,11 @@
 			"channel": "anyeess",
 			"enabled": "true",
 			"quality" : "720p"
+		},
+		{
+			"channel": "honey_pinkgreen",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
