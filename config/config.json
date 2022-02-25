@@ -218,6 +218,11 @@
 			"channel": "honey_pinkgreen",
 			"enabled": "false",
 			"quality" : "720p"
+		},
+		{
+			"channel": "doll_lexi",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
