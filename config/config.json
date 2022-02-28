@@ -223,6 +223,11 @@
 			"channel": "doll_lexi",
 			"enabled": "true",
 			"quality" : "720p"
+		},
+		{
+			"channel": "jessynelson",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
