@@ -228,6 +228,11 @@
 			"channel": "jessynelson",
 			"enabled": "false",
 			"quality" : "720p"
+		},
+		{
+			"channel": "alexislove007",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
