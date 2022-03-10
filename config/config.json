@@ -233,6 +233,11 @@
 			"channel": "alexislove007",
 			"enabled": "true",
 			"quality" : "720p"
+		},
+		{
+			"channel": "emilytrays",
+			"enabled": "true",
+			"quality" : "720p"
 		}
 	]
 }
