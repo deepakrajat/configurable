@@ -41,7 +41,7 @@
 		},
 		{
 			"channel": "terryadorable",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -56,23 +56,23 @@
 		},
 		{ 
 			"channel": "oh_julie",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{
 			"channel": "amazing_roxana",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
 			"channel": "missflowersbloom",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
 			"channel": "chloewildd",
-			"enabled": "true",
-			"quality" : "720p"
+			"enabled": "false",
+			"quality" : "best"
 		},
 		{
 			"channel": "webcamrecording",
@@ -136,12 +136,12 @@
 		},
 		{
 			"channel": "naughtystyle69",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		}, 
 		{
 			"channel": "elibee",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		}, 
 		{
@@ -151,7 +151,7 @@
 		},
 		{
 			"channel": "angela_ride",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
@@ -171,12 +171,12 @@
 		},
 		{
 			"channel": "lola_jd",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
 			"channel": "_myaa",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
@@ -201,7 +201,7 @@
 		},
 		{
 			"channel": "me_emily",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
@@ -211,12 +211,12 @@
 		},
 		{
 			"channel": "anyeess",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{
 			"channel": "sexyutopia",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
@@ -226,7 +226,7 @@
 		},
 		{
 			"channel": "seexxxy_couuple",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
@@ -241,7 +241,7 @@
 		},
 		{
 			"channel": "miss_vavilova",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		}
 	]
