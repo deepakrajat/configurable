@@ -71,8 +71,8 @@
 		},
 		{
 			"channel": "chloewildd",
-			"enabled": "true",
-			"quality" : "best"
+			"enabled": "false",
+			"quality" : "720p"
 		},
 		{
 			"channel": "webcamrecording",
