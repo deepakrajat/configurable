@@ -136,7 +136,7 @@
 		},
 		{
 			"channel": "naughtystyle69",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		}, 
 		{
@@ -241,7 +241,7 @@
 		},
 		{
 			"channel": "foxeslovefoxes",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		}
 	]
