@@ -156,7 +156,7 @@
 		},
 		{
 			"channel": "diffgirls",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
@@ -226,12 +226,12 @@
 		},
 		{
 			"channel": "mynaughtynights",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
 			"channel": "xoxo_emma",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
@@ -241,7 +241,7 @@
 		},
 		{
 			"channel": "alexislove007",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		}
 	]
