@@ -206,12 +206,12 @@
 		},
 		{
 			"channel": "kitty_ricky",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{
 			"channel": "anyeess",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
@@ -236,7 +236,7 @@
 		},
 		{
 			"channel": "littlesweettifany",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
