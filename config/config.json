@@ -240,8 +240,8 @@
 			"quality" : "720p"
 		},
 		{
-			"channel": "teressalovee",
-			"enabled": "false",
+			"channel": "milena_manin",
+			"enabled": "true",
 			"quality" : "720p"
 		}
 	]
