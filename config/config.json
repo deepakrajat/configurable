@@ -235,12 +235,17 @@
 			"quality" : "720p"
 		},
 		{
-			"channel": "littlesweettifany",
-			"enabled": "false",
+			"channel": "dovia",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{
 			"channel": "milena_manin",
+			"enabled": "true",
+			"quality" : "720p"
+		},
+		{
+			"channel": "wow_stephany",
 			"enabled": "true",
 			"quality" : "720p"
 		}
