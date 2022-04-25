@@ -245,8 +245,8 @@
 			"quality" : "720p"
 		},
 		{
-			"channel": "wow_stephany",
-			"enabled": "false",
+			"channel": "dovia",
+			"enabled": "true",
 			"quality" : "720p"
 		}
 	]
