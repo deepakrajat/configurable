@@ -21,8 +21,8 @@
 		},
 		{ 
 			"channel": "little_dutch",
-			"enabled": "true",
-			"quality" : "1080p"
+			"enabled": "false",
+			"quality" : "720p"
 		},
 		{
 			"channel": "drug_girl",
@@ -246,7 +246,7 @@
 		},
 		{
 			"channel": "sweety_rinushka_",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		}
 	]
