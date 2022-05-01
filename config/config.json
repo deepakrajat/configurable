@@ -236,12 +236,12 @@
 		},
 		{
 			"channel": "carolinaherera",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
 			"channel": "milena_manin",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
