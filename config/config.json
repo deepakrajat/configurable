@@ -101,7 +101,7 @@
 		},
 		{
 			"channel": "goldteachers",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
@@ -235,8 +235,8 @@
 			"quality" : "720p"
 		},
 		{
-			"channel": "xoxo_emma",
-			"enabled": "false",
+			"channel": "kassablanca_",
+			"enabled": "true",
 			"quality" : "720p"
 		}
 	]
