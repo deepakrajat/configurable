@@ -81,12 +81,12 @@
 		},
 		{ 
 			"channel": "stacy_magic",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
 			"channel": "cristall_white",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
