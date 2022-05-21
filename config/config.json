@@ -11,22 +11,22 @@
 		},
 		{ 
 			"channel": "stripmango",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
 			"channel": "slemgem",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{ 
 			"channel": "little_dutch",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
 			"channel": "drug_girl",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -51,7 +51,7 @@
 		},
 		{
 			"channel": "firefox_",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
@@ -91,12 +91,12 @@
 		},
 		{
 			"channel": "angel_pinky",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
 			"channel": "patricia_bloom",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
@@ -111,27 +111,27 @@
 		},
 		{
 			"channel": "jesikalooove",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
 			"channel": "deanralphs",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
 			"channel": "meow_mia",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
 			"channel": "anna_lus",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
 			"channel": "olivia_deviline",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
@@ -181,7 +181,7 @@
 		},
 		{
 			"channel": "cute00kiara",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
@@ -196,7 +196,7 @@
 		},
 		{
 			"channel": "_feli_",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
@@ -206,7 +206,7 @@
 		},
 		{
 			"channel": "anyeess",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
@@ -216,7 +216,7 @@
 		},
 		{
 			"channel": "doll_lexi",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
@@ -231,12 +231,12 @@
 		},
 		{
 			"channel": "carolinaherera",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
 			"channel": "kassablanca_",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		}
 	]
