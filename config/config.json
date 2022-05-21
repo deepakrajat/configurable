@@ -16,8 +16,8 @@
 		},
 		{ 
 			"channel": "slemgem",
-			"enabled": "true",
-			"quality" : "720p"
+			"enabled": "false",
+			"quality" : "best"
 		},
 		{ 
 			"channel": "little_dutch",
