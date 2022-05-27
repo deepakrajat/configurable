@@ -230,8 +230,8 @@
 			"quality" : "720p"
 		},
 		{
-			"channel": "_meganmeow_",
-			"enabled": "false",
+			"channel": "procrastination_",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{
