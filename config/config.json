@@ -235,8 +235,8 @@
 			"quality" : "720p"
 		},
 		{
-			"channel": "kassablanca_",
-			"enabled": "false",
+			"channel": "_meganmeow_",
+			"enabled": "true",
 			"quality" : "720p"
 		}
 	]
