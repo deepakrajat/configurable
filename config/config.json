@@ -220,8 +220,8 @@
 			"quality" : "720p"
 		},
 		{
-			"channel": "mynaughtynights",
-			"enabled": "false",
+			"channel": "veola_new",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{
