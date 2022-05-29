@@ -236,7 +236,7 @@
 		},
 		{
 			"channel": "_meganmeow_",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		}
 	]
