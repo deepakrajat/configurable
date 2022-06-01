@@ -221,7 +221,7 @@
 		},
 		{
 			"channel": "veola_new",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
@@ -235,8 +235,8 @@
 			"quality" : "720p"
 		},
 		{
-			"channel": "_meganmeow_",
-			"enabled": "false",
+			"channel": "brightrays__",
+			"enabled": "true",
 			"quality" : "720p"
 		}
 	]
