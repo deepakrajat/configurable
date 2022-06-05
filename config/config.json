@@ -206,7 +206,7 @@
 		},
 		{
 			"channel": "anyeess",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{
