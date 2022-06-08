@@ -61,12 +61,12 @@
 		},
 		{
 			"channel": "amazing_roxana",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
 			"channel": "missflowersbloom",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -111,8 +111,8 @@
 		},
 		{
 			"channel": "jesikalooove",
-			"enabled": "false",
-			"quality" : "best"
+			"enabled": "true",
+			"quality" : "720p"
 		},
 		{
 			"channel": "deanralphs",
@@ -206,12 +206,12 @@
 		},
 		{
 			"channel": "anyeess",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
 			"channel": "jessynelson",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
@@ -231,7 +231,7 @@
 		},
 		{
 			"channel": "procrastination_",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
