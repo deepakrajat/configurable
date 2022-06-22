@@ -111,7 +111,7 @@
 		},
 		{
 			"channel": "jesikalooove",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
@@ -121,7 +121,7 @@
 		},
 		{
 			"channel": "meow_mia",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{
@@ -236,7 +236,7 @@
 		},
 		{
 			"channel": "_meganmeow_",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		}
 	]
