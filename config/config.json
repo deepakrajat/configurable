@@ -6,17 +6,17 @@
 	"streamers": [
 	    	{
 			"channel": "coverm",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{ 
 			"channel": "js_girls",
 			"enabled": "true",
-			"quality" : "720p"
+			"quality" : "best"
 		},
 		{ 
 			"channel": "slemgem",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -26,7 +26,7 @@
 		},
 		{
 			"channel": "drug_girl",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
@@ -66,7 +66,7 @@
 		},
 		{ 
 			"channel": "missflowersbloom",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "best"
 		},
 		{
@@ -121,7 +121,7 @@
 		},
 		{
 			"channel": "meow_mia",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
@@ -136,7 +136,7 @@
 		},
 		{
 			"channel": "naughtystyle69",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		}, 
 		{
@@ -176,7 +176,7 @@
 		},
 		{
 			"channel": "_myaa",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
