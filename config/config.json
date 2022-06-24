@@ -6,7 +6,7 @@
 	"streamers": [
 	    	{
 			"channel": "coverm",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "best"
 		},
 		{ 
@@ -41,7 +41,7 @@
 		},
 		{
 			"channel": "terryadorable",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
