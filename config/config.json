@@ -1,7 +1,7 @@
 {
 	"auto_reload_config": true,
 	"rate_limit": true,
-	"rate_limit_time": 15,
+	"rate_limit_time": 20,
 	"default_export_location": "./list.txt",
 	"streamers": [
 	    	{
@@ -16,7 +16,7 @@
 		},
 		{ 
 			"channel": "slemgem",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
@@ -41,7 +41,7 @@
 		},
 		{
 			"channel": "terryadorable",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
