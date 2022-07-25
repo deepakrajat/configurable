@@ -7,12 +7,12 @@
 	    	{
 			"channel": "coverm",
 			"enabled": "true",
-			"quality" : "best"
+			"quality" : "720p"
 		},
 		{ 
 			"channel": "js_girls",
 			"enabled": "true",
-			"quality" : "best"
+			"quality" : "720p"
 		},
 		{ 
 			"channel": "slemgem",
