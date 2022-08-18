@@ -96,7 +96,7 @@
 		},
 		{
 			"channel": "patricia_bloom",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{
@@ -206,7 +206,7 @@
 		},
 		{
 			"channel": "anyeess",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{
