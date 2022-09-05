@@ -66,8 +66,8 @@
 		},
 		{ 
 			"channel": "missflowersbloom",
-			"enabled": "false",
-			"quality" : "best"
+			"enabled": "true",
+			"quality" : "720p"
 		},
 		{
 			"channel": "chloewildd",
