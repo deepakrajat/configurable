@@ -21,7 +21,7 @@
 		},
 		{ 
 			"channel": "little_dutch",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{
@@ -116,7 +116,7 @@
 		},
 		{
 			"channel": "deanralphs",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{
