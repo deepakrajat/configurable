@@ -19,14 +19,9 @@
 			"enabled": "true",
 			"quality" : "720p"
 		},
-		{ 
-			"channel": "little_dutch",
-			"enabled": "true",
-			"quality" : "720p"
-		},
 		{
-			"channel": "drug_girl",
-			"enabled": "false",
+			"channel": "anna_lus",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
@@ -38,6 +33,21 @@
 			"channel": "roxy_blue_eyed_",
 			"enabled": "true",
 			"quality" : "best"
+		},
+		{
+			"channel": "chloewildd",
+			"enabled": "true",
+			"quality" : "720p"
+		},
+		{ 
+			"channel": "little_dutch",
+			"enabled": "false",
+			"quality" : "720p"
+		},
+		{
+			"channel": "drug_girl",
+			"enabled": "false",
+			"quality" : "720p"
 		},
 		{
 			"channel": "terryadorable",
@@ -67,11 +77,6 @@
 		{ 
 			"channel": "missflowersbloom",
 			"enabled": "false",
-			"quality" : "720p"
-		},
-		{
-			"channel": "chloewildd",
-			"enabled": "true",
 			"quality" : "720p"
 		},
 		{
@@ -116,17 +121,12 @@
 		},
 		{
 			"channel": "deanralphs",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
 			"channel": "meow_mia",
 			"enabled": "false",
-			"quality" : "720p"
-		},
-		{
-			"channel": "anna_lus",
-			"enabled": "true",
 			"quality" : "720p"
 		},
 		{
