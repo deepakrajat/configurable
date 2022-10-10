@@ -1,7 +1,7 @@
 {
-	"auto_reload_config": true,
+	"auto_reload_config": false,
 	"rate_limit": true,
-	"rate_limit_time": 20,
+	"rate_limit_time": 60,
 	"default_export_location": "./list.txt",
 	"streamers": [
 	    	{
