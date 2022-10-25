@@ -51,6 +51,11 @@
 		},
 		{
 			"channel": "terryadorable",
+			"enabled": "false",
+			"quality" : "720p"
+		},
+		{
+			"channel": "blackfoxvortex",
 			"enabled": "true",
 			"quality" : "720p"
 		},
