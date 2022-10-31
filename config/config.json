@@ -39,6 +39,11 @@
 			"enabled": "true",
 			"quality" : "720p"
 		},
+		{
+			"channel": "8a8y_nura",
+			"enabled": "true",
+			"quality" : "540p"
+		},
 		{ 
 			"channel": "little_dutch",
 			"enabled": "false",
