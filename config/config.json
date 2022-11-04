@@ -41,12 +41,12 @@
 		},
 		{
 			"channel": "8a8y_nura",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "540p"
 		},
 		{ 
 			"channel": "little_dutch",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{
@@ -56,12 +56,12 @@
 		},
 		{
 			"channel": "terryadorable",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
 			"channel": "blackfoxvortex",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
