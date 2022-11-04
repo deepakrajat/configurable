@@ -41,7 +41,7 @@
 		},
 		{
 			"channel": "8a8y_nura",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "540p"
 		},
 		{ 
@@ -60,8 +60,8 @@
 			"quality" : "720p"
 		},
 		{
-			"channel": "blackfoxvortex",
-			"enabled": "false",
+			"channel": "annemanifique",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{ 
