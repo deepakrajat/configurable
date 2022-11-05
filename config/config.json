@@ -61,7 +61,7 @@
 		},
 		{
 			"channel": "annemanifique",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{ 
