@@ -50,6 +50,11 @@
 			"quality" : "720p"
 		},
 		{
+			"channel": "amazing_roxana",
+			"enabled": "true",
+			"quality" : "720p"
+		},
+		{
 			"channel": "drug_girl",
 			"enabled": "false",
 			"quality" : "720p"
@@ -76,11 +81,6 @@
 		},
 		{ 
 			"channel": "oh_julie",
-			"enabled": "false",
-			"quality" : "720p"
-		},
-		{
-			"channel": "amazing_roxana",
 			"enabled": "false",
 			"quality" : "720p"
 		},
