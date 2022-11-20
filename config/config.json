@@ -70,6 +70,11 @@
 			"quality" : "720p"
 		},
 		{
+			"channel": "crazybabyyy",
+			"enabled": "true",
+			"quality" : "720p"
+		},
+		{
 			"channel": "goldteachers",
 			"enabled": "false",
 			"quality" : "720p"
