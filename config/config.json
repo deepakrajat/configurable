@@ -41,7 +41,7 @@
 		},
 		{
 			"channel": "8a8y_nura",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "540p"
 		},
 		{ 
@@ -51,12 +51,12 @@
 		},
 		{
 			"channel": "amazing_roxana",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
 			"channel": "aarilaviee",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
@@ -211,7 +211,7 @@
 		},
 		{
 			"channel": "_feli_",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
