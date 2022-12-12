@@ -14,13 +14,8 @@
 			"enabled": "true",
 			"quality" : "720p"
 		},
-		{ 
-			"channel": "slemgem",
-			"enabled": "false",
-			"quality" : "720p"
-		},
 		{
-			"channel": "anna_lus",
+			"channel": "patricia_bloom",
 			"enabled": "true",
 			"quality" : "720p"
 		},
@@ -40,13 +35,38 @@
 			"quality" : "720p"
 		},
 		{
+			"channel": "vika54784",
+			"enabled": "true",
+			"quality" : "720p"
+		},
+		{
+			"channel": "crazybabyyy",
+			"enabled": "true",
+			"quality" : "720p"
+		},
+		{ 
+			"channel": "little_dutch",
+			"enabled": "true",
+			"quality" : "720p"
+		},
+		{
+			"channel": "angel_pinky",
+			"enabled": "true",
+			"quality" : "720p"
+		},
+		{
 			"channel": "8a8y_nura",
 			"enabled": "false",
 			"quality" : "540p"
 		},
 		{ 
-			"channel": "little_dutch",
-			"enabled": "true",
+			"channel": "slemgem",
+			"enabled": "false",
+			"quality" : "720p"
+		},
+		{
+			"channel": "anna_lus",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
@@ -61,17 +81,7 @@
 		},
 		{
 			"channel": "terryadorable",
-			"enabled": "true",
-			"quality" : "720p"
-		},
-		{
-			"channel": "vika54784",
-			"enabled": "true",
-			"quality" : "720p"
-		},
-		{
-			"channel": "crazybabyyy",
-			"enabled": "true",
+			"enabled": "false",
 			"quality" : "720p"
 		},
 		{
@@ -113,16 +123,6 @@
 			"channel": "cristall_white",
 			"enabled": "false",
 			"quality" : "best"
-		},
-		{
-			"channel": "angel_pinky",
-			"enabled": "false",
-			"quality" : "720p"
-		},
-		{
-			"channel": "patricia_bloom",
-			"enabled": "false",
-			"quality" : "720p"
 		},
 		{
 			"channel": "hotcryst",
