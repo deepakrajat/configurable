@@ -55,6 +55,11 @@
 			"quality" : "720p"
 		},
 		{
+			"channel": "jesikalooove",
+			"enabled": "true",
+			"quality" : "720p"
+		},
+		{
 			"channel": "8a8y_nura",
 			"enabled": "false",
 			"quality" : "540p"
@@ -126,11 +131,6 @@
 		},
 		{
 			"channel": "hotcryst",
-			"enabled": "false",
-			"quality" : "720p"
-		},
-		{
-			"channel": "jesikalooove",
 			"enabled": "false",
 			"quality" : "720p"
 		},
