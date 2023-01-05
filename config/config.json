@@ -35,6 +35,11 @@
 			"quality" : "720p"
 		},
 		{
+			"channel": "double_spice_jj",
+			"enabled": "true",
+			"quality" : "720p"
+		},
+		{
 			"channel": "vika54784",
 			"enabled": "false",
 			"quality" : "720p"
