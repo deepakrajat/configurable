@@ -71,7 +71,7 @@
 		},
 		{ 
 			"channel": "slemgem",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{
@@ -81,12 +81,12 @@
 		},
 		{
 			"channel": "amazing_roxana",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{
 			"channel": "aarilaviee",
-			"enabled": "false",
+			"enabled": "true",
 			"quality" : "720p"
 		},
 		{
@@ -111,8 +111,8 @@
 		},
 		{
 			"channel": "firefox_",
-			"enabled": "false",
-			"quality" : "best"
+			"enabled": "true",
+			"quality" : "720p"
 		},
 		{ 
 			"channel": "oh_julie",
