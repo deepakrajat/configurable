@@ -40,6 +40,11 @@
 			"quality" : "720p"
 		},
 		{
+			"channel": "hotcryst",
+			"enabled": "true",
+			"quality" : "720p"
+		},
+		{
 			"channel": "vika54784",
 			"enabled": "false",
 			"quality" : "720p"
@@ -133,11 +138,6 @@
 			"channel": "cristall_white",
 			"enabled": "false",
 			"quality" : "best"
-		},
-		{
-			"channel": "hotcryst",
-			"enabled": "false",
-			"quality" : "720p"
 		},
 		{
 			"channel": "deanralphs",
