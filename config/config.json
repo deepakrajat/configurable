@@ -30,7 +30,7 @@
 			"quality" : "720p"
 		},
 		{
-			"channel": "double_spice_jj",
+			"channel": "jesikalooove",
 			"enabled": "true",
 			"quality" : "720p"
 		},
@@ -65,6 +65,11 @@
 			"quality" : "720p"
 		},
 		{
+			"channel": "double_spice_jj",
+			"enabled": "false",
+			"quality" : "720p"
+		},
+		{
 			"channel": "patricia_bloom",
 			"enabled": "false",
 			"quality" : "720p"
@@ -87,11 +92,6 @@
 		{
 			"channel": "angel_pinky",
 			"enabled": "false",
-			"quality" : "720p"
-		},
-		{
-			"channel": "jesikalooove",
-			"enabled": "true",
 			"quality" : "720p"
 		},
 		{
